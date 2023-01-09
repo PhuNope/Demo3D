@@ -1,0 +1,482 @@
+2023-01-09T15:03:55.171Z - log: [Package] menu@1.0.0 enable
+2023-01-09T15:03:55.173Z - log: [Package] profile@1.0.0 enable
+2023-01-09T15:03:55.182Z - log: [Package] project@1.0.2 enable
+2023-01-09T15:03:55.186Z - log: [Package] messages@1.0.0 enable
+2023-01-09T15:03:55.189Z - log: [Package] program@1.0.0 enable
+2023-01-09T15:03:55.194Z - log: [Package] tester@1.0.0 enable
+2023-01-09T15:03:55.199Z - log: [Package] preferences@1.0.0 enable
+2023-01-09T15:03:58.231Z - log: Load engine in D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine
+2023-01-09T15:03:58.660Z - log: Register native engine in D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\native
+2023-01-09T15:03:58.664Z - log: [Package] engine@1.0.7 enable
+2023-01-09T15:03:59.655Z - log: [Package] programming@1.0.0 enable
+2023-01-09T15:03:59.706Z - warn: 
+2023-01-09T15:03:59.739Z - warn: 
+2023-01-09T15:03:59.921Z - log: [Package] device@1.0.1 enable
+2023-01-09T15:03:59.948Z - log: [Package] ui-kit@1.0.1 enable
+2023-01-09T15:03:59.973Z - log: [Package] engine-extends@1.0.0 enable
+2023-01-09T15:04:00.040Z - log: [Package] asset-db@1.0.0 enable
+2023-01-09T15:04:00.040Z - warn: 
+2023-01-09T15:04:00.078Z - log: [Package] scene@1.0.0 enable
+2023-01-09T15:04:00.266Z - log: [Package] server@1.0.0 enable
+2023-01-09T15:04:00.296Z - log: [Package] utils@1.0.0 enable
+2023-01-09T15:04:11.191Z - warn: 
+2023-01-09T15:04:11.192Z - warn: 
+2023-01-09T15:04:11.192Z - warn: 
+2023-01-09T15:04:11.237Z - warn: 
+2023-01-09T15:04:11.237Z - warn: 
+2023-01-09T15:04:11.237Z - warn: 
+2023-01-09T15:04:13.176Z - warn: 
+2023-01-09T15:04:13.261Z - log: [Package] preview@1.0.1 enable
+2023-01-09T15:04:13.300Z - log: [Package] animator@1.0.0 enable
+2023-01-09T15:04:13.378Z - log: pluginManager init: 0.221ms
+2023-01-09T15:04:15.066Z - log: Profile changed: builder (log.level: 4)
+2023-01-09T15:04:15.076Z - log: [Package] builder@1.3.3 enable
+2023-01-09T15:04:15.125Z - log: [Package] shortcuts@1.0.1 enable
+2023-01-09T15:04:15.169Z - log: [Package] animation-graph@1.0.0 enable
+2023-01-09T15:04:15.203Z - log: [Package] about@1.0.0 enable
+2023-01-09T15:04:15.243Z - log: [Package] assets@1.0.0 enable
+2023-01-09T15:04:15.284Z - log: [Package] console@1.0.0 enable
+2023-01-09T15:04:15.661Z - log: [Package] extension@3.0.16 enable
+2023-01-09T15:04:15.702Z - log: [Package] hierarchy@1.0.0 enable
+2023-01-09T15:04:15.742Z - log: [Package] inspector@1.0.0 enable
+2023-01-09T15:04:15.778Z - log: [Package] lightmap@1.0.4 enable
+2023-01-09T15:04:16.627Z - log: [Package] localization-editor@1.0.0 enable
+2023-01-09T15:04:16.640Z - log: [Build-plugin] register pkg localization-editor: 7.362ms
+2023-01-09T15:04:16.672Z - log: [Package] node-library@1.0.1 enable
+2023-01-09T15:04:16.697Z - log: [Package] package-asset@1.0.0 enable
+2023-01-09T15:04:16.728Z - log: [Package] process@1.0.0 enable
+2023-01-09T15:04:16.768Z - log: [Package] reference-image@1.0.0 enable
+2023-01-09T15:04:16.793Z - log: [Package] alipay-mini-game@1.0.1 enable
+2023-01-09T15:04:16.797Z - log: [Build-plugin] register pkg alipay-mini-game: 2.908ms
+2023-01-09T15:04:16.821Z - log: [Package] android@1.0.1 enable
+2023-01-09T15:04:16.830Z - log: [Build-plugin] register pkg android: 9.215ms
+2023-01-09T15:04:16.927Z - log: [Package] baidu-mini-game@1.0.1 enable
+2023-01-09T15:04:16.935Z - log: [Build-plugin] register pkg baidu-mini-game: 7.883ms
+2023-01-09T15:04:16.972Z - log: [Package] bytedance-mini-game@1.0.2 enable
+2023-01-09T15:04:16.976Z - log: [Build-plugin] register pkg bytedance-mini-game: 3.83ms
+2023-01-09T15:04:17.000Z - log: [Package] certificate@1.0.0 enable
+2023-01-09T15:04:17.024Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-01-09T15:04:17.050Z - log: [Package] cocos-play@1.0.1 enable
+2023-01-09T15:04:17.058Z - log: [Build-plugin] register pkg cocos-play: 7.721ms
+2023-01-09T15:04:17.085Z - log: [Package] huawei-agc@1.0.0 enable
+2023-01-09T15:04:17.091Z - log: [Build-plugin] register pkg huawei-agc: 6.261ms
+2023-01-09T15:04:17.118Z - log: [Package] huawei-quick-game@1.0.1 enable
+2023-01-09T15:04:17.125Z - log: [Build-plugin] register pkg huawei-quick-game: 6.629ms
+2023-01-09T15:04:17.155Z - log: [Package] ios@1.0.0 enable
+2023-01-09T15:04:17.161Z - log: [Build-plugin] register pkg ios: 5.474ms
+2023-01-09T15:04:17.184Z - log: [Package] linux@1.0.0 enable
+2023-01-09T15:04:17.186Z - log: [Build-plugin] register pkg linux: 1.686ms
+2023-01-09T15:04:17.209Z - log: [Package] mac@1.0.0 enable
+2023-01-09T15:04:17.216Z - log: [Build-plugin] register pkg mac: 6.681ms
+2023-01-09T15:04:17.363Z - log: [Package] native@1.0.2 enable
+2023-01-09T15:04:17.382Z - log: [Build-plugin] register pkg native: 18.347ms
+2023-01-09T15:04:17.406Z - log: [Package] ohos@1.0.0 enable
+2023-01-09T15:04:17.411Z - log: [Build-plugin] register pkg ohos: 4.722ms
+2023-01-09T15:04:17.435Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-01-09T15:04:17.437Z - log: [Build-plugin] register pkg open-harmonyos: 1.309ms
+2023-01-09T15:04:17.460Z - log: [Package] oppo-mini-game@1.0.1 enable
+2023-01-09T15:04:17.468Z - log: [Build-plugin] register pkg oppo-mini-game: 7.483ms
+2023-01-09T15:04:17.491Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-01-09T15:04:17.516Z - log: [Package] vivo-mini-game@1.0.1 enable
+2023-01-09T15:04:17.523Z - log: [Build-plugin] register pkg vivo-mini-game: 6.422ms
+2023-01-09T15:04:17.587Z - log: [Package] web-desktop@1.0.1 enable
+2023-01-09T15:04:17.594Z - log: [Build-plugin] register pkg web-desktop: 6.138ms
+2023-01-09T15:04:17.628Z - log: [Package] web-mobile@1.0.1 enable
+2023-01-09T15:04:17.637Z - log: [Build-plugin] register pkg web-mobile: 7.693ms
+2023-01-09T15:04:17.675Z - log: [Package] wechatgame@1.0.2 enable
+2023-01-09T15:04:17.688Z - log: [Build-plugin] register pkg wechatgame: 12.172ms
+2023-01-09T15:04:17.712Z - log: [Package] windows@1.0.1 enable
+2023-01-09T15:04:17.718Z - log: [Build-plugin] register pkg windows: 4.849ms
+2023-01-09T15:04:17.740Z - log: [Package] xiaomi-quick-game@1.0.1 enable
+2023-01-09T15:04:17.747Z - log: [Build-plugin] register pkg xiaomi-quick-game: 5.961ms
+2023-01-09T15:04:18.238Z - log: [Package] cocos-service@3.0.4 enable
+2023-01-09T15:04:18.251Z - log: [Build-plugin] register pkg cocos-service: 8.925ms
+2023-01-09T15:04:18.286Z - log: [Package] importer@1.1.0 enable
+2023-01-09T15:04:18.686Z - log: [Im-plugin] Check im-plugin version.
+2023-01-09T15:04:18.694Z - log: [Package] im-plugin@3.0.9 enable
+2023-01-09T15:04:20.459Z - log: [Im-plugin] No online info of im-plugin.
+2023-01-09T15:04:29.691Z - warn: 
+2023-01-09T15:04:29.692Z - warn: 
+2023-01-09T15:04:29.692Z - warn: 
+2023-01-09T15:04:31.259Z - log: [Scene] Please specifiy a default value for "cc.EditorExtendable.__editorExtras__" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.291Z - log: [Scene] Please specifiy a default value for "CCPropertyOverrideInfo.value" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.291Z - log: [Scene] Please specifiy a default value for "cc.PrefabInfo.asset" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.292Z - log: [Scene] Please specifiy a default value for "cc.PrefabInfo.nestedPrefabInstanceRoots" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.295Z - log: [Scene] The 'default' attribute of 'ColorDesc.beginAccesses' must be an array
+2023-01-09T15:04:31.295Z - log: [Scene] The 'default' attribute of 'ColorDesc.endAccesses' must be an array
+2023-01-09T15:04:31.308Z - log: [Scene] Please specifiy a default value for "cc.animation.TrackBinding.proxy" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.308Z - log: [Scene] Please specifiy a default value for "cc.animation.Channel._curve" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.309Z - log: [Scene] Please specifiy a default value for "cc.animation.SingleChannelTrack._channel" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.309Z - log: [Scene] Please specifiy a default value for "cc.animation.VectorTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.310Z - log: [Scene] Please specifiy a default value for "cc.animation.ColorTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.310Z - log: [Scene] Please specifiy a default value for "cc.animation.SizeTrack._channels" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.310Z - log: [Scene] Please specifiy a default value for "cc.animation.Transition.from" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.310Z - log: [Scene] Please specifiy a default value for "cc.animation.Transition.to" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.310Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._entryState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.311Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._exitState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.311Z - log: [Scene] Please specifiy a default value for "cc.animation.StateMachine._anyState" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.311Z - log: [Scene] Please specifiy a default value for "cc.animation.Layer._stateMachine" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.311Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticVectorLikeTrackValues._values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.311Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticVectorLikeTrackValues._isQuantized" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.312Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticTrack.times" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.312Z - log: [Scene] Please specifiy a default value for "cc.animation.ExoticTrack.values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.312Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.originalPrecision" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.312Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.min" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.312Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.extent" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.312Z - log: [Scene] Please specifiy a default value for "cc.animation.QuantizedFloatArray.values" property at its declaration:
+
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2023-01-09T15:04:31.351Z - log: [Scene] 'cc.ParticleSystem2D.color' hides inherited property 'cc.UIRenderer.color'. To make the current property override that implementation, add the `override: true` attribute please.
+2023-01-09T15:04:31.396Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._receiveShadow", which its default value is type of Boolean.
+2023-01-09T15:04:31.396Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._useNormalmap", which its default value is type of Boolean.
+2023-01-09T15:04:31.396Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._usePBR", which its default value is type of Boolean.
+2023-01-09T15:04:31.396Z - log: [Scene] No needs to indicate the 'cc.Boolean' attribute for "cc.Terrain._lodEnable", which its default value is type of Boolean.
+2023-01-09T15:04:31.505Z - info: [Scene] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-01-09T15:04:31.516Z - info: [Scene] [PHYSICS]: using builtin.
+2023-01-09T15:04:31.757Z - log: [Scene] Cocos Creator v3.6.2
+2023-01-09T15:04:31.757Z - info: [Scene] Forward render pipeline initialized.
+2023-01-09T15:04:31.902Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/51/511391c96051a47393bce01a53668b4eb39b4ce3.js:41:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:04:31.936Z - warn: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.Error: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/51/511391c96051a47393bce01a53668b4eb39b4ce3.js:41:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:04:31.944Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/6a/6ae923028157b29f706e20a10dc71c151b25dd09.js:47:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:04:31.944Z - warn: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.Error: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/6a/6ae923028157b29f706e20a10dc71c151b25dd09.js:47:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:04:31.957Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/e3/e32a9ad9a0bfd5f27576a1234cf3339d2e62fc21.js:57:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:04:31.957Z - warn: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.Error: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/e3/e32a9ad9a0bfd5f27576a1234cf3339d2e62fc21.js:57:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:04:31.961Z - info: [Scene] [PHYSICS]: switch from builtin to bullet.
+2023-01-09T15:04:33.185Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/51/511391c96051a47393bce01a53668b4eb39b4ce3.js:41:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:04:33.186Z - warn: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.Error: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/51/511391c96051a47393bce01a53668b4eb39b4ce3.js:41:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:04:33.188Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/6a/6ae923028157b29f706e20a10dc71c151b25dd09.js:47:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:04:33.188Z - warn: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.Error: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/6a/6ae923028157b29f706e20a10dc71c151b25dd09.js:47:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:04:33.190Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/e3/e32a9ad9a0bfd5f27576a1234cf3339d2e62fc21.js:57:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:04:33.190Z - warn: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.Error: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/e3/e32a9ad9a0bfd5f27576a1234cf3339d2e62fc21.js:57:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:05:03.258Z - error: [Preview]Cannot read properties of null (reading 'CodeMirror')errorInfo.stack ? '/n TypeError: Cannot read properties of null (reading 'CodeMirror')
+    at <anonymous>:75:30' : ''
+2023-01-09T15:07:39.135Z - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+2023-01-09T15:07:39.135Z - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277
+2023-01-09T15:14:18.567Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/51/511391c96051a47393bce01a53668b4eb39b4ce3.js:41:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:14:18.568Z - warn: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.Error: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/51/511391c96051a47393bce01a53668b4eb39b4ce3.js:41:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:14:18.574Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/6a/6ae923028157b29f706e20a10dc71c151b25dd09.js:47:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:14:18.575Z - warn: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.Error: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/6a/6ae923028157b29f706e20a10dc71c151b25dd09.js:47:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:14:18.578Z - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/e3/e32a9ad9a0bfd5f27576a1234cf3339d2e62fc21.js:57:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:14:18.579Z - warn: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.Error: [Scene] 'SystemEvent' is deprecated since v3.4.0, please use 'Input' instead.
+    at warn (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148210:12)
+    at warnID (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:148424:5)
+    at _checkObsoleteByName (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165166:7)
+    at __checkObsolete__ (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:165186:7)
+    at Object.execute (file:///F:/Lap%20Trinh%20Game/simple-games/temp/programming/packer-driver/targets/editor/chunks/e3/e32a9ad9a0bfd5f27576a1234cf3339d2e62fc21.js:57:7)
+    at doExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:517:30)
+    at postOrderExec (D:\CocosDashboard_1.2.3\resources\.editors\Creator\3.6.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:508:21)
+2023-01-09T15:19:57.458Z - error: connect ECONNREFUSED 192.168.1.1:443Error: connect ECONNREFUSED 192.168.1.1:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-01-09T15:19:57.460Z - error: connect ECONNREFUSED 192.168.1.1:443Error: connect ECONNREFUSED 192.168.1.1:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-01-09T15:36:39.629Z - warn: Metrics: no valid info

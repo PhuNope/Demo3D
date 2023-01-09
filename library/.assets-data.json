@@ -1,0 +1,2621 @@
+{
+  "acc36652-f3ca-4e0c-a9d9-53dc748d12fe": {
+    "url": "db://assets/lobby",
+    "value": {}
+  },
+  "fc2273c3-8dc4-474c-8a9f-550192e42896": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "23d8fe76-cf0e-4d42-b36f-378be1d33cba": {
+    "url": "db://assets/simple-run",
+    "value": {}
+  },
+  "6f787c6f-b7b5-432c-90f0-69eea11b436e": {
+    "url": "db://assets/simple-shooting",
+    "value": {}
+  },
+  "75fc146d-0945-4c2e-a1e9-0272b38841b9": {
+    "url": "db://assets/lobby/materials",
+    "value": {}
+  },
+  "6bcc6b58-f227-4574-876c-e09d3fe3817f": {
+    "url": "db://assets/lobby/prefabs",
+    "value": {}
+  },
+  "5be9e26e-a6dd-48e1-9d29-ca3fd8e1f465": {
+    "url": "db://assets/lobby/scripts",
+    "value": {}
+  },
+  "a5b5af07-19bf-4a78-a828-04e73d3ee27f": {
+    "url": "db://assets/lobby/textures",
+    "value": {}
+  },
+  "20543ff2-ac23-4319-86b2-44aa0722b7d2": {
+    "url": "db://assets/simple-run/animations",
+    "value": {}
+  },
+  "fccfaf16-c028-4a4c-b849-2eb0383348ba": {
+    "url": "db://assets/simple-run/materials",
+    "value": {}
+  },
+  "5659f26b-c311-4b02-ba3d-08f77f7e5a93": {
+    "url": "db://assets/simple-run/models",
+    "value": {}
+  },
+  "67a97f45-ea86-456f-876d-b9a1d99b3abb": {
+    "url": "db://assets/simple-run/prefabs",
+    "value": {}
+  },
+  "bf8318b7-120a-496c-80b6-f66fa1272066": {
+    "url": "db://assets/simple-run/scenes",
+    "value": {}
+  },
+  "92973a06-4008-4a5d-8fee-e2533a9eb214": {
+    "url": "db://assets/simple-run/scripts",
+    "value": {}
+  },
+  "2bcf31b6-2c94-4119-8d92-91c3cfb679fb": {
+    "url": "db://assets/simple-run/sounds",
+    "value": {}
+  },
+  "2f9b2ea9-3c49-488f-b1d0-b2db5e102195": {
+    "url": "db://assets/simple-run/textures",
+    "value": {}
+  },
+  "d64d1cd0-c26d-42d7-b2ab-949ca23c467b": {
+    "url": "db://assets/simple-shooting/effects",
+    "value": {}
+  },
+  "ea513a45-492c-4bfe-ad9d-67db610d8bcd": {
+    "url": "db://assets/simple-shooting/materials",
+    "value": {}
+  },
+  "8ba0892d-7b55-4a03-9ce7-4b152459ceae": {
+    "url": "db://assets/simple-shooting/models",
+    "value": {}
+  },
+  "1de03b92-d5be-4ce9-8cc0-51d8fb41186a": {
+    "url": "db://assets/simple-shooting/prefabs",
+    "value": {}
+  },
+  "e20c1d26-ab27-433f-b897-194c1aac8207": {
+    "url": "db://assets/simple-shooting/scenes",
+    "value": {}
+  },
+  "beff7a6c-241c-45b3-ad5d-5cba09caf2ad": {
+    "url": "db://assets/simple-shooting/scripts",
+    "value": {}
+  },
+  "8d6313bb-d64d-4bf4-a0a7-7fc50d114fc4": {
+    "url": "db://assets/simple-shooting/textures",
+    "value": {}
+  },
+  "9ac82eb0-9488-4075-badc-0c17f6ba694f": {
+    "url": "db://assets/lobby/textures/ui",
+    "value": {}
+  },
+  "0b11a799-b9e7-4174-b045-e636d6c963c8": {
+    "url": "db://assets/simple-run/models/cocos",
+    "value": {}
+  },
+  "c54c4d8d-6f84-43d4-b15e-77c84b0b8fb8": {
+    "url": "db://assets/simple-run/models/coin",
+    "value": {}
+  },
+  "4a6c6436-3c85-4fed-a09a-47a20453cc36": {
+    "url": "db://assets/simple-run/models/road-block",
+    "value": {}
+  },
+  "8c735613-6812-46c0-8e87-e71c3c52db85": {
+    "url": "db://assets/simple-run/models/test",
+    "value": {}
+  },
+  "cc3c3af2-7fb7-46be-a576-cd31dbbaa8af": {
+    "url": "db://assets/simple-run/textures/mp_drakeq",
+    "value": {}
+  },
+  "2218c98b-9e53-4481-8044-64a1bfb40f64": {
+    "url": "db://assets/simple-run/textures/ui",
+    "value": {}
+  },
+  "e92700f1-b5b6-4656-8362-125874b90405": {
+    "url": "db://assets/simple-shooting/effects/explosion",
+    "value": {}
+  },
+  "222f29f3-6e17-4b75-9aed-a9e196aecac5": {
+    "url": "db://assets/simple-shooting/effects/trace",
+    "value": {}
+  },
+  "f268e88d-2ebb-4734-b651-eeefba116e57": {
+    "url": "db://assets/simple-shooting/models/alita",
+    "value": {}
+  },
+  "4dacb206-25f8-4ff5-b86d-1b2c57048f21": {
+    "url": "db://assets/simple-shooting/models/env",
+    "value": {}
+  },
+  "fe14036d-1dca-4727-83f0-f98316c0ad8b": {
+    "url": "db://assets/simple-shooting/models/woodenBox",
+    "value": {}
+  },
+  "de5c980e-f2eb-429d-8065-702cbfded6a0": {
+    "url": "db://assets/simple-shooting/prefabs/Bullet",
+    "value": {}
+  },
+  "ab0f8e1c-701d-4558-8c35-b5502e740086": {
+    "url": "db://assets/simple-shooting/prefabs/Particles",
+    "value": {}
+  },
+  "c62fedbe-d01f-40bb-a603-cd340db9b675": {
+    "url": "db://assets/simple-shooting/textures/ui",
+    "value": {}
+  },
+  "75b08e51-53d1-4bca-b3de-ad7713d25d2c": {
+    "url": "db://assets/simple-run/models/cocos/animations",
+    "value": {}
+  },
+  "5a35866c-f715-4bb3-bb63-dad35f743f80": {
+    "url": "db://assets/simple-shooting/models/env/gltf",
+    "value": {}
+  },
+  "16f1ac92-da92-4bd4-aad8-ccafc5e743eb": {
+    "url": "db://assets/simple-shooting/models/woodenBox/textures",
+    "value": {}
+  },
+  "6354b538-a71a-4c4d-8b00-eb9d4d4d1530": {
+    "url": "db://assets/simple-shooting/textures/ui/control",
+    "value": {}
+  },
+  "3a253b20-04d3-4bcb-9cfe-9c0add0d83d7": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures",
+    "value": {}
+  },
+  "f8f659f3-b220-48aa-acd9-ef8318e213f0": {
+    "url": "db://assets/lobby/scripts/LobbyManager.ts",
+    "value": {}
+  },
+  "4e1cef5d-ad78-4b1c-b6a5-da7e994faa52": {
+    "url": "db://assets/lobby/scripts/TopBar.ts",
+    "value": {}
+  },
+  "96d85146-ca46-4ef5-85d2-e65ef09ce9cc": {
+    "url": "db://assets/simple-run/scripts/CameraFollow.ts",
+    "value": {}
+  },
+  "52f3552c-743c-4d06-9509-a90b45670258": {
+    "url": "db://assets/simple-run/scripts/ColliderChecker.ts",
+    "value": {}
+  },
+  "1c463122-5ee3-438c-8eda-b4a6bc566767": {
+    "url": "db://assets/simple-run/scripts/GameDefines.ts",
+    "value": {}
+  },
+  "800de473-eb49-4015-8845-5661d02db5f4": {
+    "url": "db://assets/simple-run/scripts/GameManager.ts",
+    "value": {}
+  },
+  "fb97142c-95e0-4729-b372-9c363774ad69": {
+    "url": "db://assets/simple-run/scripts/PlayerController.ts",
+    "value": {}
+  },
+  "30e6a9ec-fb0f-4147-9df5-69924fdd86fa": {
+    "url": "db://assets/simple-shooting/scripts/AutoDestory.ts",
+    "value": {}
+  },
+  "79e96ee7-82be-4d8f-bbba-1e946934a8bc": {
+    "url": "db://assets/simple-shooting/scripts/Bullet.ts",
+    "value": {}
+  },
+  "2e8a9f31-e1ae-4825-a828-258283f5c284": {
+    "url": "db://assets/simple-shooting/scripts/GameDefines.ts",
+    "value": {}
+  },
+  "82dbeffc-f4e2-4c8b-9da6-eac7dfba3d73": {
+    "url": "db://assets/simple-shooting/scripts/Grenade.ts",
+    "value": {}
+  },
+  "5bf177d0-37d9-4ec0-8d21-983de7ea5f22": {
+    "url": "db://assets/simple-shooting/scripts/InputControl.ts",
+    "value": {}
+  },
+  "aa3b7899-ed6c-43be-b68c-29d77f9a29fc": {
+    "url": "db://assets/simple-shooting/scripts/PhysicsConfig.ts",
+    "value": {}
+  },
+  "20662192-d10c-475d-8fa7-19d5cf8dc581": {
+    "url": "db://assets/simple-shooting/scripts/ShootingGameManager.ts",
+    "value": {}
+  },
+  "7f57ee5b-7598-47e1-98f7-7942edc7de57": {
+    "url": "db://assets/simple-shooting/scripts/ShootingPlayerController.ts",
+    "value": {}
+  },
+  "4aba55fe-932d-4a5a-aafa-059750dee0a2": {
+    "url": "db://assets/simple-shooting/scripts/Utils.ts",
+    "value": {}
+  },
+  "7f2ad52b-eac2-4af7-8f17-8ed6018d7667": {
+    "url": "db://assets/lobby/lobby.scene",
+    "value": {
+      "depends": [
+        "7f2ad52b-eac2-4af7-8f17-8ed6018d7667",
+        "b783b08c-5b65-434f-8bbc-27518fc0b6c5",
+        "0bc14ec4-2d02-4a01-ab33-ff479408529a@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "feeb9f47-7afe-45ba-a536-8ceda954aa40@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "452c7bba-e591-4311-863b-71e47b8c51bc@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "7f2ad52b-eac2-4af7-8f17-8ed6018d7667"
+      ]
+    }
+  },
+  "a7486448-5907-4f16-b195-16497284aacb": {
+    "url": "db://assets/resources/games.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "530a1b29-9ff1-44ee-8fed-5fb90cdec602": {
+    "url": "db://assets/resources/logo.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "a9ed7041-2d4d-4796-adb3-f1559316e19b": {
+    "url": "db://assets/resources/run.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3287e64-6f7d-46cb-86b9-e3b59853c2f3": {
+    "url": "db://assets/resources/shooting.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "578264d1-08eb-4790-9d85-b1bbd480ab9b": {
+    "url": "db://assets/simple-run/test.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "4d36f650-8233-4b4c-9ff7-e30c001c087f": {
+    "url": "db://assets/lobby/materials/cover.mtl",
+    "value": {
+      "depends": [
+        "a3cd009f-0ab0-420d-9278-b9fdab939bbc",
+        "530a1b29-9ff1-44ee-8fed-5fb90cdec602@6c48a"
+      ]
+    }
+  },
+  "b783b08c-5b65-434f-8bbc-27518fc0b6c5": {
+    "url": "db://assets/lobby/prefabs/Cover.prefab",
+    "value": {
+      "depends": [
+        "4d36f650-8233-4b4c-9ff7-e30c001c087f",
+        "1263d74c-8167-4928-91a6-4e2672411f47@fc873"
+      ]
+    }
+  },
+  "df8229ad-ec16-4b62-b5cd-fc5afc6a9b82": {
+    "url": "db://assets/simple-run/animations/block_down.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "a9ed7041-2d4d-4796-adb3-f1559316e19b@6c48a": {
+    "url": "db://assets/resources/run.png@6c48a",
+    "value": {
+      "depends": [
+        "a9ed7041-2d4d-4796-adb3-f1559316e19b"
+      ]
+    }
+  },
+  "e3287e64-6f7d-46cb-86b9-e3b59853c2f3@6c48a": {
+    "url": "db://assets/resources/shooting.png@6c48a",
+    "value": {
+      "depends": [
+        "e3287e64-6f7d-46cb-86b9-e3b59853c2f3"
+      ]
+    }
+  },
+  "424389b5-0386-4689-a7ee-874bc71d3673": {
+    "url": "db://assets/simple-run/animations/coin_rot.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "d76f975f-7106-4ee2-ad53-594eb813bc2b": {
+    "url": "db://assets/simple-run/materials/coin.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "d71b4b9a-2e74-4095-a9ba-0c99072e03b9@6c48a"
+      ]
+    }
+  },
+  "530a1b29-9ff1-44ee-8fed-5fb90cdec602@6c48a": {
+    "url": "db://assets/resources/logo.png@6c48a",
+    "value": {
+      "depends": [
+        "530a1b29-9ff1-44ee-8fed-5fb90cdec602"
+      ]
+    }
+  },
+  "8f5b4a04-44da-4b5a-8c23-fec2fe529dd3": {
+    "url": "db://assets/simple-run/materials/straitFloor.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "e2eb0ece-719e-49a5-98f1-f363175f8e84@6c48a"
+      ]
+    }
+  },
+  "fa3763b8-4682-4157-a5b7-e9713f1ab1ff": {
+    "url": "db://assets/simple-run/models/cocos.zip",
+    "value": {
+      "depends": []
+    }
+  },
+  "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435": {
+    "url": "db://assets/simple-run/prefabs/Cocos.prefab",
+    "value": {
+      "depends": [
+        "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+        "fb9825a0-fd7f-48c5-b121-9af90f9f2011@72704",
+        "90f86573-5baf-41e2-97db-8604d1f42b65@a9630",
+        "58cf3db3-e6f4-4943-a076-26157912429c",
+        "58cf3db3-e6f4-4943-a076-26157912429c",
+        "58cf3db3-e6f4-4943-a076-26157912429c",
+        "58cf3db3-e6f4-4943-a076-26157912429c",
+        "5bee9f0c-9771-4e73-b0ea-0bbb6da67698@a865e",
+        "90f86573-5baf-41e2-97db-8604d1f42b65@a9630",
+        "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f",
+        "a873a742-b503-4a96-8570-6fe542697035@57e42",
+        "caf172df-03b7-4c5a-8a53-93f3e4be5146@5ecd9",
+        "27ac412c-9efa-4ead-8e2c-fe6533c7878f@96245",
+        "501da3c5-f2d8-45f7-bc04-5130d58811ff@cd579",
+        "50735e20-7211-4e9c-b676-4d648cdc0cbb@b6423",
+        "1cf73293-3e10-49c1-bfa1-59daaadbd18b@b452c",
+        "58c9fdbf-de49-4141-83fa-9ad83f78591c@b940a",
+        "b1cb32e6-c8c9-40c9-9d52-119dae416b32@0a7b5",
+        "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f"
+      ]
+    }
+  },
+  "e2d06bfc-fa71-4450-a4a3-068fab8135aa": {
+    "url": "db://assets/simple-run/prefabs/Coin.prefab",
+    "value": {
+      "depends": [
+        "d76f975f-7106-4ee2-ad53-594eb813bc2b",
+        "83d8802b-bb47-4dad-afb5-8f1e6640f5c2@0b568",
+        "424389b5-0386-4689-a7ee-874bc71d3673",
+        "424389b5-0386-4689-a7ee-874bc71d3673"
+      ]
+    }
+  },
+  "039b89e0-21a5-4051-95ee-1dadd9db30e7": {
+    "url": "db://assets/simple-run/prefabs/RoadBlock.prefab",
+    "value": {
+      "depends": [
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@56e07",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@51a09",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@33f9d",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@51a09",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@4c546",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@647ee",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@5fbd0",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@a9887",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@afb9e",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@7db0d",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@f9e97",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@9ad77",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@7002f",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@ec495",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@17598",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@08f5d",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@f9e97",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@4a520",
+        "df8229ad-ec16-4b62-b5cd-fc5afc6a9b82",
+        "df8229ad-ec16-4b62-b5cd-fc5afc6a9b82"
+      ]
+    }
+  },
+  "e65a51a5-b7b7-42c9-8bd9-2e9e3c8af0bb": {
+    "url": "db://assets/simple-run/prefabs/StraitFloor.prefab",
+    "value": {
+      "depends": [
+        "8f5b4a04-44da-4b5a-8c23-fec2fe529dd3",
+        "1263d74c-8167-4928-91a6-4e2672411f47@fc873"
+      ]
+    }
+  },
+  "20ce3694-9f5b-45a0-a0ef-63579c57aa10": {
+    "url": "db://assets/simple-run/scenes/Main.scene",
+    "value": {
+      "depends": [
+        "20ce3694-9f5b-45a0-a0ef-63579c57aa10",
+        "ec75b827-136c-4fea-a6e6-94a55026b8e9",
+        "d4ee305d-5aca-4dd9-a804-59d95c2bae98",
+        "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f",
+        "a873a742-b503-4a96-8570-6fe542697035@57e42",
+        "caf172df-03b7-4c5a-8a53-93f3e4be5146@5ecd9",
+        "27ac412c-9efa-4ead-8e2c-fe6533c7878f@96245",
+        "501da3c5-f2d8-45f7-bc04-5130d58811ff@cd579",
+        "50735e20-7211-4e9c-b676-4d648cdc0cbb@b6423",
+        "1cf73293-3e10-49c1-bfa1-59daaadbd18b@b452c",
+        "58c9fdbf-de49-4141-83fa-9ad83f78591c@b940a",
+        "b1cb32e6-c8c9-40c9-9d52-119dae416b32@0a7b5",
+        "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f",
+        "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+        "fb9825a0-fd7f-48c5-b121-9af90f9f2011@72704",
+        "90f86573-5baf-41e2-97db-8604d1f42b65@a9630",
+        "58cf3db3-e6f4-4943-a076-26157912429c",
+        "58cf3db3-e6f4-4943-a076-26157912429c",
+        "58cf3db3-e6f4-4943-a076-26157912429c",
+        "58cf3db3-e6f4-4943-a076-26157912429c",
+        "5bee9f0c-9771-4e73-b0ea-0bbb6da67698@a865e",
+        "90f86573-5baf-41e2-97db-8604d1f42b65@a9630",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435",
+        "e65a51a5-b7b7-42c9-8bd9-2e9e3c8af0bb",
+        "e2d06bfc-fa71-4450-a4a3-068fab8135aa",
+        "039b89e0-21a5-4051-95ee-1dadd9db30e7",
+        "d571063e-7353-4fe7-8c26-ebde7cbe3d39@f9941",
+        "d571063e-7353-4fe7-8c26-ebde7cbe3d39@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "29eb6af8-1b0e-4781-b328-39c7bf8570c7@f9941",
+        "d571063e-7353-4fe7-8c26-ebde7cbe3d39@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "29eb6af8-1b0e-4781-b328-39c7bf8570c7@f9941",
+        "20ce3694-9f5b-45a0-a0ef-63579c57aa10",
+        "fd9847b6-400d-432c-82a6-043f99d49b60",
+        "fd9847b6-400d-432c-82a6-043f99d49b60",
+        "fd9847b6-400d-432c-82a6-043f99d49b60"
+      ]
+    }
+  },
+  "ec75b827-136c-4fea-a6e6-94a55026b8e9": {
+    "url": "db://assets/simple-run/sounds/coin02.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "d4ee305d-5aca-4dd9-a804-59d95c2bae98": {
+    "url": "db://assets/simple-run/sounds/jump02.wav",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2eb0ece-719e-49a5-98f1-f363175f8e84": {
+    "url": "db://assets/simple-run/textures/City-Road-Textures.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "91395b79-a706-4f6f-9860-a133721edeb7": {
+    "url": "db://assets/simple-shooting/materials/door.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "e10de04e-8c8c-485e-8b91-c6ce8a5fa5ef": {
+    "url": "db://assets/simple-shooting/prefabs/Grenade.prefab",
+    "value": {
+      "depends": [
+        "d3c7820c-2a98-4429-8bc7-b8453bc9ac41",
+        "1263d74c-8167-4928-91a6-4e2672411f47@801ec",
+        "2d696bdc-861a-4065-b8f2-cf6a916a38e2"
+      ]
+    }
+  },
+  "1657718e-8ae8-4d6e-bd83-6202b30a49b8": {
+    "url": "db://assets/simple-shooting/prefabs/WoodenBox.prefab",
+    "value": {
+      "depends": [
+        "71a81f5e-78e3-4167-9297-7db43dac5033@1c27a",
+        "71a81f5e-78e3-4167-9297-7db43dac5033@c76bc"
+      ]
+    }
+  },
+  "86558188-59bb-4643-866b-17b6e85eea90": {
+    "url": "db://assets/simple-shooting/scenes/Main.scene",
+    "value": {
+      "depends": [
+        "86558188-59bb-4643-866b-17b6e85eea90",
+        "5133dc3e-85c6-464c-953b-53b404fe836a",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@61d40",
+        "6fb4bd3a-bb86-49e0-ab28-911da1a4b279",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@b6a23",
+        "239ee41d-f179-491d-a22e-8f418e98a82e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "46759fc1-61c8-4e05-8130-f41b325c2068@f9941",
+        "46759fc1-61c8-4e05-8130-f41b325c2068@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "5e65819f-01cf-44ab-86b5-a5b4c38dbaa9@f9941",
+        "5e65819f-01cf-44ab-86b5-a5b4c38dbaa9@f9941",
+        "5e65819f-01cf-44ab-86b5-a5b4c38dbaa9@f9941",
+        "5e65819f-01cf-44ab-86b5-a5b4c38dbaa9@f9941",
+        "5e65819f-01cf-44ab-86b5-a5b4c38dbaa9@f9941",
+        "cd4436d6-0c20-480e-be2a-8a44a4c75987@f9941",
+        "cd4436d6-0c20-480e-be2a-8a44a4c75987@f9941",
+        "cd4436d6-0c20-480e-be2a-8a44a4c75987@f9941",
+        "cd4436d6-0c20-480e-be2a-8a44a4c75987@f9941",
+        "cd4436d6-0c20-480e-be2a-8a44a4c75987@f9941",
+        "fe341545-4e18-4b7e-883b-2f8f7fe8d558@f9941",
+        "fe341545-4e18-4b7e-883b-2f8f7fe8d558@f9941",
+        "fe341545-4e18-4b7e-883b-2f8f7fe8d558@f9941",
+        "fe341545-4e18-4b7e-883b-2f8f7fe8d558@f9941",
+        "fe341545-4e18-4b7e-883b-2f8f7fe8d558@f9941",
+        "1144d8dc-97a5-405a-b52b-bef97b11a0cb@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "e1c5f6c3-b0d3-47a5-b4b3-eb2b4a3bf883@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "9e6ba493-fcf6-4368-984e-1d9ee80721e1",
+        "e10de04e-8c8c-485e-8b91-c6ce8a5fa5ef",
+        "e78a2182-f076-458c-8973-512c29485911@70593",
+        "e78a2182-f076-458c-8973-512c29485911@70593",
+        "e78a2182-f076-458c-8973-512c29485911@70593",
+        "e78a2182-f076-458c-8973-512c29485911@332cc",
+        "e78a2182-f076-458c-8973-512c29485911@30732",
+        "e78a2182-f076-458c-8973-512c29485911@d56ba",
+        "e78a2182-f076-458c-8973-512c29485911@e5760",
+        "e78a2182-f076-458c-8973-512c29485911@f1394",
+        "e78a2182-f076-458c-8973-512c29485911@237fb",
+        "e78a2182-f076-458c-8973-512c29485911@ca7e4",
+        "e78a2182-f076-458c-8973-512c29485911@ec6bf",
+        "e78a2182-f076-458c-8973-512c29485911@6c2ab",
+        "e78a2182-f076-458c-8973-512c29485911@5d776",
+        "e78a2182-f076-458c-8973-512c29485911@c2696",
+        "e78a2182-f076-458c-8973-512c29485911@bf369",
+        "e78a2182-f076-458c-8973-512c29485911@5f837",
+        "e78a2182-f076-458c-8973-512c29485911@eed07",
+        "e78a2182-f076-458c-8973-512c29485911@a77fa",
+        "e78a2182-f076-458c-8973-512c29485911@f4113",
+        "e78a2182-f076-458c-8973-512c29485911@5865a",
+        "e78a2182-f076-458c-8973-512c29485911@b9330",
+        "e78a2182-f076-458c-8973-512c29485911@0f418",
+        "e78a2182-f076-458c-8973-512c29485911@9292d",
+        "e78a2182-f076-458c-8973-512c29485911@a911a",
+        "e78a2182-f076-458c-8973-512c29485911@972b5",
+        "e78a2182-f076-458c-8973-512c29485911@17bd3",
+        "e78a2182-f076-458c-8973-512c29485911@57146",
+        "e78a2182-f076-458c-8973-512c29485911@f7aea",
+        "e78a2182-f076-458c-8973-512c29485911@f938e",
+        "91395b79-a706-4f6f-9860-a133721edeb7",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "91395b79-a706-4f6f-9860-a133721edeb7",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "91395b79-a706-4f6f-9860-a133721edeb7",
+        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "75e68a12-d76b-45c7-a271-46f7e4331428",
+        "1657718e-8ae8-4d6e-bd83-6202b30a49b8",
+        "1657718e-8ae8-4d6e-bd83-6202b30a49b8",
+        "86558188-59bb-4643-866b-17b6e85eea90"
+      ]
+    }
+  },
+  "185eb3ff-5e86-41b0-a7db-c5213bf80f3b": {
+    "url": "db://assets/simple-shooting/scenes/start.scene",
+    "value": {
+      "depends": [
+        "185eb3ff-5e86-41b0-a7db-c5213bf80f3b",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "185eb3ff-5e86-41b0-a7db-c5213bf80f3b"
+      ]
+    }
+  },
+  "16d999f2-be6a-4dda-ac0b-df9289e26026": {
+    "url": "db://assets/simple-shooting/textures/HP.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e2eb0ece-719e-49a5-98f1-f363175f8e84@6c48a": {
+    "url": "db://assets/simple-run/textures/City-Road-Textures.jpg@6c48a",
+    "value": {
+      "depends": [
+        "e2eb0ece-719e-49a5-98f1-f363175f8e84"
+      ]
+    }
+  },
+  "21f01c4e-0ead-483b-a8e1-971d908b81bd": {
+    "url": "db://assets/simple-shooting/textures/HPBackGround.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "239ee41d-f179-491d-a22e-8f418e98a82e": {
+    "url": "db://assets/simple-shooting/textures/target.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "452c7bba-e591-4311-863b-71e47b8c51bc": {
+    "url": "db://assets/lobby/textures/ui/home.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "0bc14ec4-2d02-4a01-ab33-ff479408529a": {
+    "url": "db://assets/lobby/textures/ui/left.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "16d999f2-be6a-4dda-ac0b-df9289e26026@6c48a": {
+    "url": "db://assets/simple-shooting/textures/HP.png@6c48a",
+    "value": {
+      "depends": [
+        "16d999f2-be6a-4dda-ac0b-df9289e26026"
+      ]
+    }
+  },
+  "21f01c4e-0ead-483b-a8e1-971d908b81bd@6c48a": {
+    "url": "db://assets/simple-shooting/textures/HPBackGround.png@6c48a",
+    "value": {
+      "depends": [
+        "21f01c4e-0ead-483b-a8e1-971d908b81bd"
+      ]
+    }
+  },
+  "452c7bba-e591-4311-863b-71e47b8c51bc@6c48a": {
+    "url": "db://assets/lobby/textures/ui/home.png@6c48a",
+    "value": {
+      "depends": [
+        "452c7bba-e591-4311-863b-71e47b8c51bc"
+      ]
+    }
+  },
+  "239ee41d-f179-491d-a22e-8f418e98a82e@6c48a": {
+    "url": "db://assets/simple-shooting/textures/target.png@6c48a",
+    "value": {
+      "depends": [
+        "239ee41d-f179-491d-a22e-8f418e98a82e"
+      ]
+    }
+  },
+  "0bc14ec4-2d02-4a01-ab33-ff479408529a@6c48a": {
+    "url": "db://assets/lobby/textures/ui/left.png@6c48a",
+    "value": {
+      "depends": [
+        "0bc14ec4-2d02-4a01-ab33-ff479408529a"
+      ]
+    }
+  },
+  "452c7bba-e591-4311-863b-71e47b8c51bc@f9941": {
+    "url": "db://assets/lobby/textures/ui/home.png@f9941",
+    "value": {
+      "depends": [
+        "452c7bba-e591-4311-863b-71e47b8c51bc@6c48a"
+      ]
+    }
+  },
+  "feeb9f47-7afe-45ba-a536-8ceda954aa40": {
+    "url": "db://assets/lobby/textures/ui/right.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "239ee41d-f179-491d-a22e-8f418e98a82e@f9941": {
+    "url": "db://assets/simple-shooting/textures/target.png@f9941",
+    "value": {
+      "depends": [
+        "239ee41d-f179-491d-a22e-8f418e98a82e@6c48a"
+      ]
+    }
+  },
+  "58cf3db3-e6f4-4943-a076-26157912429c": {
+    "url": "db://assets/simple-run/models/cocos/body.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed@6c48a",
+        "3af9be2f-93d2-41a0-b7b7-3cc03054b34a@6c48a",
+        "026c4a15-e07d-4053-86de-9f9fe30188e5@6c48a"
+      ]
+    }
+  },
+  "21f01c4e-0ead-483b-a8e1-971d908b81bd@f9941": {
+    "url": "db://assets/simple-shooting/textures/HPBackGround.png@f9941",
+    "value": {
+      "depends": [
+        "21f01c4e-0ead-483b-a8e1-971d908b81bd@6c48a"
+      ]
+    }
+  },
+  "b3df5b21-2fe6-410e-a10d-3df317e61bb5": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_01.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "0bc14ec4-2d02-4a01-ab33-ff479408529a@f9941": {
+    "url": "db://assets/lobby/textures/ui/left.png@f9941",
+    "value": {
+      "depends": [
+        "0bc14ec4-2d02-4a01-ab33-ff479408529a@6c48a"
+      ]
+    }
+  },
+  "16d999f2-be6a-4dda-ac0b-df9289e26026@f9941": {
+    "url": "db://assets/simple-shooting/textures/HP.png@f9941",
+    "value": {
+      "depends": [
+        "16d999f2-be6a-4dda-ac0b-df9289e26026@6c48a"
+      ]
+    }
+  },
+  "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_01_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "026c4a15-e07d-4053-86de-9f9fe30188e5": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_01_emissive.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3af9be2f-93d2-41a0-b7b7-3cc03054b34a": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_01_normal.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "feeb9f47-7afe-45ba-a536-8ceda954aa40@6c48a": {
+    "url": "db://assets/lobby/textures/ui/right.png@6c48a",
+    "value": {
+      "depends": [
+        "feeb9f47-7afe-45ba-a536-8ceda954aa40"
+      ]
+    }
+  },
+  "64b1edbd-75c7-4159-a65a-f1e6d8c9812a": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_01_occlusionRoughnessMetallic.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "026c4a15-e07d-4053-86de-9f9fe30188e5@6c48a": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_01_emissive.png@6c48a",
+    "value": {
+      "depends": [
+        "026c4a15-e07d-4053-86de-9f9fe30188e5"
+      ]
+    }
+  },
+  "dcab7d1f-201e-45d8-911c-833cc5427723": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_02.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed@6c48a": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_01_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed"
+      ]
+    }
+  },
+  "8949c1f1-9b2b-418c-b150-611a94543416": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_02_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "3af9be2f-93d2-41a0-b7b7-3cc03054b34a@6c48a": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_01_normal.png@6c48a",
+    "value": {
+      "depends": [
+        "3af9be2f-93d2-41a0-b7b7-3cc03054b34a"
+      ]
+    }
+  },
+  "19819162-ce3f-4f7c-8889-8b2f35bf274c": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_02_normal.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "feeb9f47-7afe-45ba-a536-8ceda954aa40@f9941": {
+    "url": "db://assets/lobby/textures/ui/right.png@f9941",
+    "value": {
+      "depends": [
+        "feeb9f47-7afe-45ba-a536-8ceda954aa40@6c48a"
+      ]
+    }
+  },
+  "cd618de5-59fc-4899-ba4f-55195f3e24ce": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_02_occlusionRoughnessMetallic.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5bee9f0c-9771-4e73-b0ea-0bbb6da67698": {
+    "url": "db://assets/simple-run/models/cocos/cocos_mesh.gltf",
+    "value": {}
+  },
+  "64b1edbd-75c7-4159-a65a-f1e6d8c9812a@6c48a": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_01_occlusionRoughnessMetallic.png@6c48a",
+    "value": {
+      "depends": [
+        "64b1edbd-75c7-4159-a65a-f1e6d8c9812a"
+      ]
+    }
+  },
+  "fb9825a0-fd7f-48c5-b121-9af90f9f2011": {
+    "url": "db://assets/simple-run/models/cocos/cocos_mesh_helmet.gltf",
+    "value": {}
+  },
+  "8949c1f1-9b2b-418c-b150-611a94543416@6c48a": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_02_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "8949c1f1-9b2b-418c-b150-611a94543416"
+      ]
+    }
+  },
+  "19819162-ce3f-4f7c-8889-8b2f35bf274c@6c48a": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_02_normal.png@6c48a",
+    "value": {
+      "depends": [
+        "19819162-ce3f-4f7c-8889-8b2f35bf274c"
+      ]
+    }
+  },
+  "90f86573-5baf-41e2-97db-8604d1f42b65": {
+    "url": "db://assets/simple-run/models/cocos/cocos_skel.gltf",
+    "value": {}
+  },
+  "8d2d3098-6841-41fc-af7f-4bac9e32b080": {
+    "url": "db://assets/simple-run/models/cocos/cocos_skel_ibm.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "5bee9f0c-9771-4e73-b0ea-0bbb6da67698@a865e": {
+    "url": "db://assets/simple-run/models/cocos/cocos_mesh.gltf@a865e",
+    "value": {
+      "depends": []
+    }
+  },
+  "cd618de5-59fc-4899-ba4f-55195f3e24ce@6c48a": {
+    "url": "db://assets/simple-run/models/cocos/cocosfinish_02_occlusionRoughnessMetallic.png@6c48a",
+    "value": {
+      "depends": [
+        "cd618de5-59fc-4899-ba4f-55195f3e24ce"
+      ]
+    }
+  },
+  "b9ab6374-4e67-4db2-bb75-0256c62f6c7b": {
+    "url": "db://assets/simple-run/models/cocos/cocos_squat_anim.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "fb9825a0-fd7f-48c5-b121-9af90f9f2011@72704": {
+    "url": "db://assets/simple-run/models/cocos/cocos_mesh_helmet.gltf@72704",
+    "value": {
+      "depends": []
+    }
+  },
+  "5bee9f0c-9771-4e73-b0ea-0bbb6da67698@e69d3": {
+    "url": "db://assets/simple-run/models/cocos/cocos_mesh.gltf@e69d3",
+    "value": {
+      "depends": [
+        "5bee9f0c-9771-4e73-b0ea-0bbb6da67698@a865e"
+      ]
+    }
+  },
+  "7e81a899-6c7c-493d-80cf-e4f730e4f48f": {
+    "url": "db://assets/simple-run/models/cocos/helmet.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "19819162-ce3f-4f7c-8889-8b2f35bf274c@6c48a",
+        "cd618de5-59fc-4899-ba4f-55195f3e24ce@6c48a",
+        "cd618de5-59fc-4899-ba4f-55195f3e24ce@6c48a",
+        "8949c1f1-9b2b-418c-b150-611a94543416@6c48a"
+      ]
+    }
+  },
+  "83d8802b-bb47-4dad-afb5-8f1e6640f5c2": {
+    "url": "db://assets/simple-run/models/coin/coin.glb",
+    "value": {}
+  },
+  "90f86573-5baf-41e2-97db-8604d1f42b65@a9630": {
+    "url": "db://assets/simple-run/models/cocos/cocos_skel.gltf@a9630",
+    "value": {
+      "depends": []
+    }
+  },
+  "fb9825a0-fd7f-48c5-b121-9af90f9f2011@28c31": {
+    "url": "db://assets/simple-run/models/cocos/cocos_mesh_helmet.gltf@28c31",
+    "value": {
+      "depends": [
+        "fb9825a0-fd7f-48c5-b121-9af90f9f2011@72704"
+      ]
+    }
+  },
+  "d71b4b9a-2e74-4095-a9ba-0c99072e03b9": {
+    "url": "db://assets/simple-run/models/coin/coni_paint.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8d3e19f4-5ff8-46d0-8026-5da0acc5695d": {
+    "url": "db://assets/simple-run/models/road-block/scene.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "90f86573-5baf-41e2-97db-8604d1f42b65@41e97": {
+    "url": "db://assets/simple-run/models/cocos/cocos_skel.gltf@41e97",
+    "value": {
+      "depends": []
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf",
+    "value": {}
+  },
+  "ad12009e-a76e-431a-a454-5e4e2e8fc810": {
+    "url": "db://assets/simple-run/models/test/cocos_anim_jump.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "f4d979c8-e820-4f9d-a413-979883c7eac5": {
+    "url": "db://assets/simple-run/models/test/cocos_anim_jump.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "83d8802b-bb47-4dad-afb5-8f1e6640f5c2@0b568": {
+    "url": "db://assets/simple-run/models/coin/coin.glb@0b568",
+    "value": {
+      "depends": []
+    }
+  },
+  "dd318b4e-9c3e-4325-b17c-3bfa34773f51": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/drakeq_back.tga",
+    "value": {
+      "depends": []
+    }
+  },
+  "83d8802b-bb47-4dad-afb5-8f1e6640f5c2@8038b": {
+    "url": "db://assets/simple-run/models/coin/coin.glb@8038b",
+    "value": {
+      "depends": [
+        "83d8802b-bb47-4dad-afb5-8f1e6640f5c2@0b568"
+      ]
+    }
+  },
+  "cb0610d6-8290-44a7-bd28-151e6b7c4328": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/drakeq_bottom.tga",
+    "value": {
+      "depends": []
+    }
+  },
+  "d71b4b9a-2e74-4095-a9ba-0c99072e03b9@6c48a": {
+    "url": "db://assets/simple-run/models/coin/coni_paint.png@6c48a",
+    "value": {
+      "depends": [
+        "d71b4b9a-2e74-4095-a9ba-0c99072e03b9"
+      ]
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@17598": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@17598",
+    "value": {
+      "depends": []
+    }
+  },
+  "efb1c820-c1f6-4f1f-a423-33421432b0b6": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/drakeq_front.tga",
+    "value": {
+      "depends": []
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@56e07": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@56e07",
+    "value": {
+      "depends": []
+    }
+  },
+  "f4d979c8-e820-4f9d-a413-979883c7eac5@cd579": {
+    "url": "db://assets/simple-run/models/test/cocos_anim_jump.gltf@cd579",
+    "value": {
+      "depends": []
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@33f9d": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@33f9d",
+    "value": {
+      "depends": []
+    }
+  },
+  "f4d979c8-e820-4f9d-a413-979883c7eac5@645e0": {
+    "url": "db://assets/simple-run/models/test/cocos_anim_jump.gltf@645e0",
+    "value": {
+      "depends": [
+        "f4d979c8-e820-4f9d-a413-979883c7eac5@cd579",
+        "f4d979c8-e820-4f9d-a413-979883c7eac5@cd579"
+      ]
+    }
+  },
+  "a0c3dd29-62d9-48d2-b23e-46daa031d03c": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/drakeq_left.tga",
+    "value": {
+      "depends": []
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@4c546": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@4c546",
+    "value": {
+      "depends": []
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@647ee": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@647ee",
+    "value": {
+      "depends": []
+    }
+  },
+  "dd318b4e-9c3e-4325-b17c-3bfa34773f51@6c48a": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/drakeq_back.tga@6c48a",
+    "value": {
+      "depends": [
+        "dd318b4e-9c3e-4325-b17c-3bfa34773f51"
+      ]
+    }
+  },
+  "5b34dc2e-7c1f-4d4e-8447-b95e94cc5372": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/drakeq_right.tga",
+    "value": {
+      "depends": []
+    }
+  },
+  "efb1c820-c1f6-4f1f-a423-33421432b0b6@6c48a": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/drakeq_front.tga@6c48a",
+    "value": {
+      "depends": [
+        "efb1c820-c1f6-4f1f-a423-33421432b0b6"
+      ]
+    }
+  },
+  "85b93441-fc5d-40ff-b4da-8c6256d41bab": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/drakeq_top.tga",
+    "value": {
+      "depends": []
+    }
+  },
+  "cb0610d6-8290-44a7-bd28-151e6b7c4328@6c48a": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/drakeq_bottom.tga@6c48a",
+    "value": {
+      "depends": [
+        "cb0610d6-8290-44a7-bd28-151e6b7c4328"
+      ]
+    }
+  },
+  "f4b8077c-cd26-4d33-ae3a-fede4bd4b45b": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/license.txt",
+    "value": {
+      "depends": []
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@5fbd0": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@5fbd0",
+    "value": {
+      "depends": []
+    }
+  },
+  "7ccb36ec-11d0-4665-bebf-cc3931a715b4": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/mp_drakeq.shader",
+    "value": {
+      "depends": []
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@a9887": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@a9887",
+    "value": {
+      "depends": []
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@afb9e": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@afb9e",
+    "value": {
+      "depends": []
+    }
+  },
+  "0fb51c44-0d9b-49b8-87a6-998805a5a12e": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/readme.txt",
+    "value": {
+      "depends": []
+    }
+  },
+  "a0c3dd29-62d9-48d2-b23e-46daa031d03c@6c48a": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/drakeq_left.tga@6c48a",
+    "value": {
+      "depends": [
+        "a0c3dd29-62d9-48d2-b23e-46daa031d03c"
+      ]
+    }
+  },
+  "fd9847b6-400d-432c-82a6-043f99d49b60": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/star.cubemap",
+    "value": {
+      "depends": [
+        "efb1c820-c1f6-4f1f-a423-33421432b0b6",
+        "dd318b4e-9c3e-4325-b17c-3bfa34773f51",
+        "a0c3dd29-62d9-48d2-b23e-46daa031d03c",
+        "5b34dc2e-7c1f-4d4e-8447-b95e94cc5372",
+        "85b93441-fc5d-40ff-b4da-8c6256d41bab",
+        "cb0610d6-8290-44a7-bd28-151e6b7c4328"
+      ]
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@7db0d": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@7db0d",
+    "value": {
+      "depends": []
+    }
+  },
+  "29eb6af8-1b0e-4781-b328-39c7bf8570c7": {
+    "url": "db://assets/simple-run/textures/ui/metalPanel_green.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d571063e-7353-4fe7-8c26-ebde7cbe3d39": {
+    "url": "db://assets/simple-run/textures/ui/squareGreen.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@9ad77": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@9ad77",
+    "value": {
+      "depends": []
+    }
+  },
+  "5b34dc2e-7c1f-4d4e-8447-b95e94cc5372@6c48a": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/drakeq_right.tga@6c48a",
+    "value": {
+      "depends": [
+        "5b34dc2e-7c1f-4d4e-8447-b95e94cc5372"
+      ]
+    }
+  },
+  "85b93441-fc5d-40ff-b4da-8c6256d41bab@6c48a": {
+    "url": "db://assets/simple-run/textures/mp_drakeq/drakeq_top.tga@6c48a",
+    "value": {
+      "depends": [
+        "85b93441-fc5d-40ff-b4da-8c6256d41bab"
+      ]
+    }
+  },
+  "2d696bdc-861a-4065-b8f2-cf6a916a38e2": {
+    "url": "db://assets/simple-shooting/effects/explosion/Explosion.prefab",
+    "value": {
+      "depends": [
+        "c01b9002-276f-41aa-ae5e-c23fbdf60226"
+      ]
+    }
+  },
+  "c01b9002-276f-41aa-ae5e-c23fbdf60226": {
+    "url": "db://assets/simple-shooting/effects/explosion/fire.mtl",
+    "value": {
+      "depends": [
+        "d1346436-ac96-4271-b863-1f4fdead95b0",
+        "2b4954f0-c4c3-4d5a-a9c6-5587e06b0517@6c48a"
+      ]
+    }
+  },
+  "2b4954f0-c4c3-4d5a-a9c6-5587e06b0517": {
+    "url": "db://assets/simple-shooting/effects/explosion/smoke_07.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@7002f": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@7002f",
+    "value": {
+      "depends": []
+    }
+  },
+  "29eb6af8-1b0e-4781-b328-39c7bf8570c7@6c48a": {
+    "url": "db://assets/simple-run/textures/ui/metalPanel_green.png@6c48a",
+    "value": {
+      "depends": [
+        "29eb6af8-1b0e-4781-b328-39c7bf8570c7"
+      ]
+    }
+  },
+  "d571063e-7353-4fe7-8c26-ebde7cbe3d39@6c48a": {
+    "url": "db://assets/simple-run/textures/ui/squareGreen.png@6c48a",
+    "value": {
+      "depends": [
+        "d571063e-7353-4fe7-8c26-ebde7cbe3d39"
+      ]
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@08f5d": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@08f5d",
+    "value": {
+      "depends": []
+    }
+  },
+  "75e68a12-d76b-45c7-a271-46f7e4331428": {
+    "url": "db://assets/simple-shooting/effects/trace/trace.mtl",
+    "value": {
+      "depends": [
+        "d1346436-ac96-4271-b863-1f4fdead95b0",
+        "25b5691e-e9d7-440c-819f-507bb5b64a86@6c48a"
+      ]
+    }
+  },
+  "2b4954f0-c4c3-4d5a-a9c6-5587e06b0517@6c48a": {
+    "url": "db://assets/simple-shooting/effects/explosion/smoke_07.png@6c48a",
+    "value": {
+      "depends": [
+        "2b4954f0-c4c3-4d5a-a9c6-5587e06b0517"
+      ]
+    }
+  },
+  "25b5691e-e9d7-440c-819f-507bb5b64a86": {
+    "url": "db://assets/simple-shooting/effects/trace/trace_02_rotated.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@4a520": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@4a520",
+    "value": {
+      "depends": []
+    }
+  },
+  "29eb6af8-1b0e-4781-b328-39c7bf8570c7@f9941": {
+    "url": "db://assets/simple-run/textures/ui/metalPanel_green.png@f9941",
+    "value": {
+      "depends": [
+        "29eb6af8-1b0e-4781-b328-39c7bf8570c7@6c48a"
+      ]
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx",
+    "value": {
+      "depends": []
+    }
+  },
+  "d571063e-7353-4fe7-8c26-ebde7cbe3d39@f9941": {
+    "url": "db://assets/simple-run/textures/ui/squareGreen.png@f9941",
+    "value": {
+      "depends": [
+        "d571063e-7353-4fe7-8c26-ebde7cbe3d39@6c48a"
+      ]
+    }
+  },
+  "2664b761-dda0-4702-8559-85638f6ba6fc": {
+    "url": "db://assets/simple-shooting/models/alita/TexLaserRifle.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@c16f2",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "3b9dc9ae-ac8e-4b1e-94ba-a46ef3b99e30": {
+    "url": "db://assets/simple-shooting/models/alita/TexSpaceSoldierM01.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@51a09": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@51a09",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@f9e97": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@f9e97",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@ec495": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@ec495",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "25b5691e-e9d7-440c-819f-507bb5b64a86@6c48a": {
+    "url": "db://assets/simple-shooting/effects/trace/trace_02_rotated.png@6c48a",
+    "value": {
+      "depends": [
+        "25b5691e-e9d7-440c-819f-507bb5b64a86"
+      ]
+    }
+  },
+  "4c1143fd-f6c2-4f11-98b3-5fdc15b0d78c": {
+    "url": "db://assets/simple-shooting/models/env/autumn_floor_mat.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@a2905"
+      ]
+    }
+  },
+  "18e346ad-f198-4ef1-90c6-8be6a285f834@d1932": {
+    "url": "db://assets/simple-run/models/road-block/scene.gltf@d1932",
+    "value": {
+      "depends": [
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@56e07",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@51a09",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@33f9d",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@51a09",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@4c546",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@647ee",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@5fbd0",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@a9887",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@afb9e",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@7db0d",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@f9e97",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@9ad77",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@7002f",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@ec495",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@17598",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@c16f2",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@08f5d",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@f9e97",
+        "18e346ad-f198-4ef1-90c6-8be6a285f834@4a520"
+      ]
+    }
+  },
+  "6fb4bd3a-bb86-49e0-ab28-911da1a4b279": {
+    "url": "db://assets/simple-shooting/models/env/birch_green_mat.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@50743",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@99ea5"
+      ]
+    }
+  },
+  "3e8d0e8c-381f-4ab5-bbc8-9d123b4d7fbb": {
+    "url": "db://assets/simple-shooting/models/env/birch_red_mat.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@006bd",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@531b0"
+      ]
+    }
+  },
+  "2664b761-dda0-4702-8559-85638f6ba6fc@6c48a": {
+    "url": "db://assets/simple-shooting/models/alita/TexLaserRifle.png@6c48a",
+    "value": {
+      "depends": [
+        "2664b761-dda0-4702-8559-85638f6ba6fc"
+      ]
+    }
+  },
+  "3b9dc9ae-ac8e-4b1e-94ba-a46ef3b99e30@6c48a": {
+    "url": "db://assets/simple-shooting/models/alita/TexSpaceSoldierM01.png@6c48a",
+    "value": {
+      "depends": [
+        "3b9dc9ae-ac8e-4b1e-94ba-a46ef3b99e30"
+      ]
+    }
+  },
+  "62c71b38-3d8f-4e2d-894a-ca4486cedf1d": {
+    "url": "db://assets/simple-shooting/models/env/birch_yellow_mat.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@9b633",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@9b782"
+      ]
+    }
+  },
+  "51c915c7-2ec9-44fc-b906-99cdeb9b4ea5": {
+    "url": "db://assets/simple-shooting/models/env/grass_autumn_mat.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@f7e17"
+      ]
+    }
+  },
+  "5133dc3e-85c6-464c-953b-53b404fe836a": {
+    "url": "db://assets/simple-shooting/models/env/grass_green_SC_mat.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@0089c"
+      ]
+    }
+  },
+  "5905d7e9-dd51-4ea4-923e-cf7f1e4c72e3": {
+    "url": "db://assets/simple-shooting/models/env/grass_yellowgreen_mat.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@9c3d2"
+      ]
+    }
+  },
+  "ccaad37d-10c9-4d3e-807d-532c72e655ef": {
+    "url": "db://assets/simple-shooting/models/env/snow.mtl",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@3effa",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@221a5"
+      ]
+    }
+  },
+  "cb352de5-e8af-40ea-81bf-b241d3f11d70": {
+    "url": "db://assets/simple-shooting/models/woodenBox/scene.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "71a81f5e-78e3-4167-9297-7db43dac5033": {
+    "url": "db://assets/simple-shooting/models/woodenBox/scene.gltf",
+    "value": {}
+  },
+  "3526ef8c-f844-44d3-8e52-0f94bfcebc75": {
+    "url": "db://assets/simple-shooting/prefabs/Bullet/BossBullet.prefab",
+    "value": {
+      "depends": [
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@a7644",
+        "1263d74c-8167-4928-91a6-4e2672411f47@38fd2"
+      ]
+    }
+  },
+  "9e6ba493-fcf6-4368-984e-1d9ee80721e1": {
+    "url": "db://assets/simple-shooting/prefabs/Bullet/Bullet.prefab",
+    "value": {
+      "depends": [
+        "91395b79-a706-4f6f-9860-a133721edeb7",
+        "1263d74c-8167-4928-91a6-4e2672411f47@17020"
+      ]
+    }
+  },
+  "00a4861c-040c-4a2d-99dc-f6a76d5fceba": {
+    "url": "db://assets/simple-shooting/prefabs/Bullet/MonsterBullet.prefab",
+    "value": {
+      "depends": [
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@a7644",
+        "1263d74c-8167-4928-91a6-4e2672411f47@17020"
+      ]
+    }
+  },
+  "71a81f5e-78e3-4167-9297-7db43dac5033@c76bc": {
+    "url": "db://assets/simple-shooting/models/woodenBox/scene.gltf@c76bc",
+    "value": {
+      "depends": []
+    }
+  },
+  "71a81f5e-78e3-4167-9297-7db43dac5033@e39f7": {
+    "url": "db://assets/simple-shooting/models/woodenBox/scene.gltf@e39f7",
+    "value": {
+      "depends": [
+        "d961c71e-b87d-485d-80ea-2859d08b4e7e"
+      ]
+    }
+  },
+  "0cba405e-6e2a-4545-a561-a4a93e0286cd": {
+    "url": "db://assets/simple-shooting/prefabs/Particles/AppearPar.prefab",
+    "value": {
+      "depends": [
+        "75e68a12-d76b-45c7-a271-46f7e4331428"
+      ]
+    }
+  },
+  "71a81f5e-78e3-4167-9297-7db43dac5033@1c27a": {
+    "url": "db://assets/simple-shooting/models/woodenBox/scene.gltf@1c27a",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "71a81f5e-78e3-4167-9297-7db43dac5033@e39f7"
+      ]
+    }
+  },
+  "51ced159-15d3-47c9-ba1a-4ea964c29af3": {
+    "url": "db://assets/simple-shooting/prefabs/Particles/Boom.prefab",
+    "value": {
+      "depends": [
+        "75e68a12-d76b-45c7-a271-46f7e4331428"
+      ]
+    }
+  },
+  "5c2242fb-e18c-4db8-be5a-ca5ef222fd99": {
+    "url": "db://assets/simple-shooting/prefabs/Particles/New Particle.prefab",
+    "value": {
+      "depends": [
+        "75e68a12-d76b-45c7-a271-46f7e4331428"
+      ]
+    }
+  },
+  "71a81f5e-78e3-4167-9297-7db43dac5033@d1932": {
+    "url": "db://assets/simple-shooting/models/woodenBox/scene.gltf@d1932",
+    "value": {
+      "depends": [
+        "71a81f5e-78e3-4167-9297-7db43dac5033@1c27a",
+        "71a81f5e-78e3-4167-9297-7db43dac5033@c76bc"
+      ]
+    }
+  },
+  "73443895-6d8f-41b5-8e3f-4110d0f4dc31": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_attack.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "a873a742-b503-4a96-8570-6fe542697035": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_attack.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "d1a7cd09-b5d9-422f-a4f3-112d85f1059c": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_die.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "caf172df-03b7-4c5a-8a53-93f3e4be5146": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_die.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_down.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "27ac412c-9efa-4ead-8e2c-fe6533c7878f": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_down.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "a1efb6ff-ef74-4037-8801-d310eca22fd5": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_hurt.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "a873a742-b503-4a96-8570-6fe542697035@57e42": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_attack.gltf@57e42",
+    "value": {
+      "depends": []
+    }
+  },
+  "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_hurt.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "caf172df-03b7-4c5a-8a53-93f3e4be5146@5ecd9": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_die.gltf@5ecd9",
+    "value": {
+      "depends": []
+    }
+  },
+  "a873a742-b503-4a96-8570-6fe542697035@325cb": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_attack.gltf@325cb",
+    "value": {
+      "depends": [
+        "a873a742-b503-4a96-8570-6fe542697035@57e42",
+        "a873a742-b503-4a96-8570-6fe542697035@57e42"
+      ]
+    }
+  },
+  "e9d41da7-da95-4119-8a6c-0937de2adb57": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_idle.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "caf172df-03b7-4c5a-8a53-93f3e4be5146@578b6": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_die.gltf@578b6",
+    "value": {
+      "depends": [
+        "caf172df-03b7-4c5a-8a53-93f3e4be5146@5ecd9",
+        "caf172df-03b7-4c5a-8a53-93f3e4be5146@5ecd9"
+      ]
+    }
+  },
+  "445d5d9d-c56b-4528-bc90-c847357e5d94": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_idle.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "27ac412c-9efa-4ead-8e2c-fe6533c7878f@96245": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_down.gltf@96245",
+    "value": {
+      "depends": []
+    }
+  },
+  "33a7dcc9-4eed-4d49-baac-d190c3d2a157": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_jump.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "27ac412c-9efa-4ead-8e2c-fe6533c7878f@bce50": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_down.gltf@bce50",
+    "value": {
+      "depends": [
+        "27ac412c-9efa-4ead-8e2c-fe6533c7878f@96245",
+        "27ac412c-9efa-4ead-8e2c-fe6533c7878f@96245"
+      ]
+    }
+  },
+  "501da3c5-f2d8-45f7-bc04-5130d58811ff": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_jump.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1@51885": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_hurt.gltf@51885",
+    "value": {
+      "depends": [
+        "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1@4cafd",
+        "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1@4cafd"
+      ]
+    }
+  },
+  "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1@4cafd": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_hurt.gltf@4cafd",
+    "value": {
+      "depends": []
+    }
+  },
+  "f1d8a0c8-d2d8-473f-a769-803842978f68": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_run.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "50735e20-7211-4e9c-b676-4d648cdc0cbb": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_run.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_idle.gltf@ab65f",
+    "value": {
+      "depends": []
+    }
+  },
+  "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_shoot.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "445d5d9d-c56b-4528-bc90-c847357e5d94@0ea50": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_idle.gltf@0ea50",
+    "value": {
+      "depends": [
+        "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f",
+        "445d5d9d-c56b-4528-bc90-c847357e5d94@ab65f"
+      ]
+    }
+  },
+  "1cf73293-3e10-49c1-bfa1-59daaadbd18b": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_shoot.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "501da3c5-f2d8-45f7-bc04-5130d58811ff@cd579": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_jump.gltf@cd579",
+    "value": {
+      "depends": []
+    }
+  },
+  "501da3c5-f2d8-45f7-bc04-5130d58811ff@645e0": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_jump.gltf@645e0",
+    "value": {
+      "depends": [
+        "501da3c5-f2d8-45f7-bc04-5130d58811ff@cd579",
+        "501da3c5-f2d8-45f7-bc04-5130d58811ff@cd579"
+      ]
+    }
+  },
+  "7290f264-a898-4355-8041-8514dbd0051f": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_squat.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "58c9fdbf-de49-4141-83fa-9ad83f78591c": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_squat.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "50735e20-7211-4e9c-b676-4d648cdc0cbb@b6423": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_run.gltf@b6423",
+    "value": {
+      "depends": []
+    }
+  },
+  "50735e20-7211-4e9c-b676-4d648cdc0cbb@6ebd2": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_run.gltf@6ebd2",
+    "value": {
+      "depends": [
+        "50735e20-7211-4e9c-b676-4d648cdc0cbb@b6423",
+        "50735e20-7211-4e9c-b676-4d648cdc0cbb@b6423"
+      ]
+    }
+  },
+  "e08b2140-55f5-4d1f-af55-565183504a80": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_walk.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "b1cb32e6-c8c9-40c9-9d52-119dae416b32": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_walk.gltf",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@30732": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@30732",
+    "value": {
+      "depends": []
+    }
+  },
+  "1cf73293-3e10-49c1-bfa1-59daaadbd18b@b452c": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_shoot.gltf@b452c",
+    "value": {
+      "depends": []
+    }
+  },
+  "7fdc624f-06b5-4650-bcbc-70393435fdee": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "1cf73293-3e10-49c1-bfa1-59daaadbd18b@7d7b5": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_shoot.gltf@7d7b5",
+    "value": {
+      "depends": [
+        "1cf73293-3e10-49c1-bfa1-59daaadbd18b@b452c",
+        "1cf73293-3e10-49c1-bfa1-59daaadbd18b@b452c"
+      ]
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf",
+    "value": {}
+  },
+  "e78a2182-f076-458c-8973-512c29485911@57146": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@57146",
+    "value": {
+      "depends": []
+    }
+  },
+  "58c9fdbf-de49-4141-83fa-9ad83f78591c@b940a": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_squat.gltf@b940a",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@70593": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@70593",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "e78a2182-f076-458c-8973-512c29485911@eb3be"
+      ]
+    }
+  },
+  "d961c71e-b87d-485d-80ea-2859d08b4e7e": {
+    "url": "db://assets/simple-shooting/models/woodenBox/textures/Material_8_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "58c9fdbf-de49-4141-83fa-9ad83f78591c@6c8e7": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_squat.gltf@6c8e7",
+    "value": {
+      "depends": [
+        "58c9fdbf-de49-4141-83fa-9ad83f78591c@b940a",
+        "58c9fdbf-de49-4141-83fa-9ad83f78591c@b940a"
+      ]
+    }
+  },
+  "e1c5f6c3-b0d3-47a5-b4b3-eb2b4a3bf883": {
+    "url": "db://assets/simple-shooting/textures/ui/control/grenade.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@332cc": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@332cc",
+    "value": {
+      "depends": []
+    }
+  },
+  "b1cb32e6-c8c9-40c9-9d52-119dae416b32@0a7b5": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_walk.gltf@0a7b5",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@e5760": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@e5760",
+    "value": {
+      "depends": []
+    }
+  },
+  "b1cb32e6-c8c9-40c9-9d52-119dae416b32@6ac0b": {
+    "url": "db://assets/simple-run/models/cocos/animations/cocos_anim_walk.gltf@6ac0b",
+    "value": {
+      "depends": [
+        "b1cb32e6-c8c9-40c9-9d52-119dae416b32@0a7b5",
+        "b1cb32e6-c8c9-40c9-9d52-119dae416b32@0a7b5"
+      ]
+    }
+  },
+  "46759fc1-61c8-4e05-8130-f41b325c2068": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight03.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e1c5f6c3-b0d3-47a5-b4b3-eb2b4a3bf883@6c48a": {
+    "url": "db://assets/simple-shooting/textures/ui/control/grenade.png@6c48a",
+    "value": {
+      "depends": [
+        "e1c5f6c3-b0d3-47a5-b4b3-eb2b4a3bf883"
+      ]
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@237fb": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@237fb",
+    "value": {
+      "depends": []
+    }
+  },
+  "e1c5f6c3-b0d3-47a5-b4b3-eb2b4a3bf883@f9941": {
+    "url": "db://assets/simple-shooting/textures/ui/control/grenade.png@f9941",
+    "value": {
+      "depends": [
+        "e1c5f6c3-b0d3-47a5-b4b3-eb2b4a3bf883@6c48a"
+      ]
+    }
+  },
+  "cd4436d6-0c20-480e-be2a-8a44a4c75987": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight05.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d961c71e-b87d-485d-80ea-2859d08b4e7e@6c48a": {
+    "url": "db://assets/simple-shooting/models/woodenBox/textures/Material_8_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "d961c71e-b87d-485d-80ea-2859d08b4e7e"
+      ]
+    }
+  },
+  "5e65819f-01cf-44ab-86b5-a5b4c38dbaa9": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight06.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@ca7e4": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@ca7e4",
+    "value": {
+      "depends": []
+    }
+  },
+  "46759fc1-61c8-4e05-8130-f41b325c2068@6c48a": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight03.png@6c48a",
+    "value": {
+      "depends": [
+        "46759fc1-61c8-4e05-8130-f41b325c2068"
+      ]
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@27232": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@27232",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@50743": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@50743",
+    "value": {
+      "depends": [
+        "cf810e70-e20f-447c-833d-54642824f380"
+      ]
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@ec6bf": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@ec6bf",
+    "value": {
+      "depends": []
+    }
+  },
+  "46759fc1-61c8-4e05-8130-f41b325c2068@f9941": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight03.png@f9941",
+    "value": {
+      "depends": [
+        "46759fc1-61c8-4e05-8130-f41b325c2068@6c48a"
+      ]
+    }
+  },
+  "fe341545-4e18-4b7e-883b-2f8f7fe8d558": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight10.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "5e65819f-01cf-44ab-86b5-a5b4c38dbaa9@6c48a": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight06.png@6c48a",
+    "value": {
+      "depends": [
+        "5e65819f-01cf-44ab-86b5-a5b4c38dbaa9"
+      ]
+    }
+  },
+  "cd4436d6-0c20-480e-be2a-8a44a4c75987@6c48a": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight05.png@6c48a",
+    "value": {
+      "depends": [
+        "cd4436d6-0c20-480e-be2a-8a44a4c75987"
+      ]
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@ab5eb": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@ab5eb",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@6c2ab": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@6c2ab",
+    "value": {
+      "depends": []
+    }
+  },
+  "5e65819f-01cf-44ab-86b5-a5b4c38dbaa9@f9941": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight06.png@f9941",
+    "value": {
+      "depends": [
+        "5e65819f-01cf-44ab-86b5-a5b4c38dbaa9@6c48a"
+      ]
+    }
+  },
+  "cd4436d6-0c20-480e-be2a-8a44a4c75987@f9941": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight05.png@f9941",
+    "value": {
+      "depends": [
+        "cd4436d6-0c20-480e-be2a-8a44a4c75987@6c48a"
+      ]
+    }
+  },
+  "1144d8dc-97a5-405a-b52b-bef97b11a0cb": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight49.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "a9073624-3d94-4b43-af80-d17d25cf0d2a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/autumn_floor_mat_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@187b9": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@187b9",
+    "value": {
+      "depends": []
+    }
+  },
+  "fe341545-4e18-4b7e-883b-2f8f7fe8d558@6c48a": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight10.png@6c48a",
+    "value": {
+      "depends": [
+        "fe341545-4e18-4b7e-883b-2f8f7fe8d558"
+      ]
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@5d776": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@5d776",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@ff834": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@ff834",
+    "value": {
+      "depends": []
+    }
+  },
+  "fe341545-4e18-4b7e-883b-2f8f7fe8d558@f9941": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight10.png@f9941",
+    "value": {
+      "depends": [
+        "fe341545-4e18-4b7e-883b-2f8f7fe8d558@6c48a"
+      ]
+    }
+  },
+  "cf810e70-e20f-447c-833d-54642824f380": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/birch_green_mat_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1144d8dc-97a5-405a-b52b-bef97b11a0cb@6c48a": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight49.png@6c48a",
+    "value": {
+      "depends": [
+        "1144d8dc-97a5-405a-b52b-bef97b11a0cb"
+      ]
+    }
+  },
+  "a9073624-3d94-4b43-af80-d17d25cf0d2a@6c48a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/autumn_floor_mat_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "a9073624-3d94-4b43-af80-d17d25cf0d2a"
+      ]
+    }
+  },
+  "f5c7be0b-135e-4387-adc8-396e45c32048": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/birch_green_mat_metallicRoughness.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@c2696": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@c2696",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@45ae9": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@45ae9",
+    "value": {
+      "depends": []
+    }
+  },
+  "1144d8dc-97a5-405a-b52b-bef97b11a0cb@f9941": {
+    "url": "db://assets/simple-shooting/textures/ui/control/shadedLight49.png@f9941",
+    "value": {
+      "depends": [
+        "1144d8dc-97a5-405a-b52b-bef97b11a0cb@6c48a"
+      ]
+    }
+  },
+  "44bb06a7-02b6-4f0d-8c14-85e4759b80ae": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/birch_red_mat_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@bf369": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@bf369",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@ea87e": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@ea87e",
+    "value": {
+      "depends": []
+    }
+  },
+  "cf810e70-e20f-447c-833d-54642824f380@6c48a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/birch_green_mat_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "cf810e70-e20f-447c-833d-54642824f380"
+      ]
+    }
+  },
+  "35311ee0-a191-4aa4-9ff8-6f69cc944001": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/birch_red_mat_metallicRoughness.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@5f837": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@5f837",
+    "value": {
+      "depends": []
+    }
+  },
+  "f5c7be0b-135e-4387-adc8-396e45c32048@6c48a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/birch_green_mat_metallicRoughness.png@6c48a",
+    "value": {
+      "depends": [
+        "f5c7be0b-135e-4387-adc8-396e45c32048"
+      ]
+    }
+  },
+  "d680adae-e592-495f-b104-c66a2bd28faa": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/birch_yellow_mat_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@aa95a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@aa95a",
+    "value": {
+      "depends": []
+    }
+  },
+  "44bb06a7-02b6-4f0d-8c14-85e4759b80ae@6c48a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/birch_red_mat_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "44bb06a7-02b6-4f0d-8c14-85e4759b80ae"
+      ]
+    }
+  },
+  "9da81524-d729-4b03-a031-567e55e4ed33": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/birch_yellow_mat_metallicRoughness.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@eed07": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@eed07",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@41ba6": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@41ba6",
+    "value": {
+      "depends": []
+    }
+  },
+  "35311ee0-a191-4aa4-9ff8-6f69cc944001@6c48a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/birch_red_mat_metallicRoughness.png@6c48a",
+    "value": {
+      "depends": [
+        "35311ee0-a191-4aa4-9ff8-6f69cc944001"
+      ]
+    }
+  },
+  "30fd3513-8345-402f-aa9d-46b06ec0f8d7": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/grass_autumn_mat_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@a77fa": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@a77fa",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@ed029": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@ed029",
+    "value": {
+      "depends": []
+    }
+  },
+  "d680adae-e592-495f-b104-c66a2bd28faa@6c48a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/birch_yellow_mat_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "d680adae-e592-495f-b104-c66a2bd28faa"
+      ]
+    }
+  },
+  "eac513a7-ca49-4384-8c89-5b097b0dde92": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/grass_green_SC_mat_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "9da81524-d729-4b03-a031-567e55e4ed33@6c48a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/birch_yellow_mat_metallicRoughness.png@6c48a",
+    "value": {
+      "depends": [
+        "9da81524-d729-4b03-a031-567e55e4ed33"
+      ]
+    }
+  },
+  "dd90b230-7f76-4c76-851e-51df4b864786": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/grass_yellowgreen_mat_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@f4113": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@f4113",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@61d40": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@61d40",
+    "value": {
+      "depends": []
+    }
+  },
+  "30fd3513-8345-402f-aa9d-46b06ec0f8d7@6c48a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/grass_autumn_mat_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "30fd3513-8345-402f-aa9d-46b06ec0f8d7"
+      ]
+    }
+  },
+  "bd3cebef-5824-4595-ae50-8ecab55de9bd": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/snow_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@5865a": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@5865a",
+    "value": {
+      "depends": []
+    }
+  },
+  "eac513a7-ca49-4384-8c89-5b097b0dde92@6c48a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/grass_green_SC_mat_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "eac513a7-ca49-4384-8c89-5b097b0dde92"
+      ]
+    }
+  },
+  "dae6e63b-8be0-462a-90a7-ed3ba08d113e": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/snow_metallicRoughness.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@b6a23": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@b6a23",
+    "value": {
+      "depends": []
+    }
+  },
+  "dd90b230-7f76-4c76-851e-51df4b864786@6c48a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/grass_yellowgreen_mat_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "dd90b230-7f76-4c76-851e-51df4b864786"
+      ]
+    }
+  },
+  "efd61d43-0233-4be8-959e-b6500878a8a8": {
+    "url": "db://assets/migrate-canvas.ts",
+    "value": {}
+  },
+  "e78a2182-f076-458c-8973-512c29485911@b9330": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@b9330",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@c5413": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@c5413",
+    "value": {
+      "depends": []
+    }
+  },
+  "bd3cebef-5824-4595-ae50-8ecab55de9bd@6c48a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/snow_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "bd3cebef-5824-4595-ae50-8ecab55de9bd"
+      ]
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@3effa": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@3effa",
+    "value": {
+      "depends": [
+        "bd3cebef-5824-4595-ae50-8ecab55de9bd"
+      ]
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@0f418": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@0f418",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@221a5": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@221a5",
+    "value": {
+      "depends": [
+        "dae6e63b-8be0-462a-90a7-ed3ba08d113e"
+      ]
+    }
+  },
+  "dae6e63b-8be0-462a-90a7-ed3ba08d113e@6c48a": {
+    "url": "db://assets/simple-shooting/models/env/gltf/textures/snow_metallicRoughness.png@6c48a",
+    "value": {
+      "depends": [
+        "dae6e63b-8be0-462a-90a7-ed3ba08d113e"
+      ]
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@0089c": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@0089c",
+    "value": {
+      "depends": [
+        "eac513a7-ca49-4384-8c89-5b097b0dde92"
+      ]
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@9292d": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@9292d",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@9b633": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@9b633",
+    "value": {
+      "depends": [
+        "d680adae-e592-495f-b104-c66a2bd28faa"
+      ]
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@9b782": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@9b782",
+    "value": {
+      "depends": [
+        "9da81524-d729-4b03-a031-567e55e4ed33"
+      ]
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@99ea5": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@99ea5",
+    "value": {
+      "depends": [
+        "f5c7be0b-135e-4387-adc8-396e45c32048"
+      ]
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@a911a": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@a911a",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@006bd": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@006bd",
+    "value": {
+      "depends": [
+        "44bb06a7-02b6-4f0d-8c14-85e4759b80ae"
+      ]
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@531b0": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@531b0",
+    "value": {
+      "depends": [
+        "35311ee0-a191-4aa4-9ff8-6f69cc944001"
+      ]
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@9c3d2": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@9c3d2",
+    "value": {
+      "depends": [
+        "dd90b230-7f76-4c76-851e-51df4b864786"
+      ]
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@f7e17": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@f7e17",
+    "value": {
+      "depends": [
+        "30fd3513-8345-402f-aa9d-46b06ec0f8d7"
+      ]
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@972b5": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@972b5",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@a2905": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@a2905",
+    "value": {
+      "depends": [
+        "a9073624-3d94-4b43-af80-d17d25cf0d2a"
+      ]
+    }
+  },
+  "ad30e782-f9b8-40d5-8ccf-23e1730268dd@d1932": {
+    "url": "db://assets/simple-shooting/models/env/gltf/scene.gltf@d1932",
+    "value": {
+      "depends": [
+        "4c1143fd-f6c2-4f11-98b3-5fdc15b0d78c",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@ab5eb",
+        "3e8d0e8c-381f-4ab5-bbc8-9d123b4d7fbb",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@187b9",
+        "ccaad37d-10c9-4d3e-807d-532c72e655ef",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@ff834",
+        "4c1143fd-f6c2-4f11-98b3-5fdc15b0d78c",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@45ae9",
+        "3e8d0e8c-381f-4ab5-bbc8-9d123b4d7fbb",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@ea87e",
+        "51c915c7-2ec9-44fc-b906-99cdeb9b4ea5",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@27232",
+        "4c1143fd-f6c2-4f11-98b3-5fdc15b0d78c",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@aa95a",
+        "62c71b38-3d8f-4e2d-894a-ca4486cedf1d",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@41ba6",
+        "5905d7e9-dd51-4ea4-923e-cf7f1e4c72e3",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@ed029",
+        "4c1143fd-f6c2-4f11-98b3-5fdc15b0d78c",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@61d40",
+        "6fb4bd3a-bb86-49e0-ab28-911da1a4b279",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@b6a23",
+        "5133dc3e-85c6-464c-953b-53b404fe836a",
+        "ad30e782-f9b8-40d5-8ccf-23e1730268dd@c5413"
+      ]
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@17bd3": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@17bd3",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@f7aea": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@f7aea",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@f1394": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@f1394",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@d7368": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@d7368",
+    "value": {
+      "depends": []
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@eb3be": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@eb3be",
+    "value": {
+      "depends": [
+        "e78a2182-f076-458c-8973-512c29485911@d7368"
+      ]
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@d56ba": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@d56ba",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "e78a2182-f076-458c-8973-512c29485911@f938e": {
+    "url": "db://assets/simple-shooting/models/alita/SpaceSoldier_Male_01.fbx@f938e",
+    "value": {
+      "depends": [
+        "e78a2182-f076-458c-8973-512c29485911@70593",
+        "e78a2182-f076-458c-8973-512c29485911@70593",
+        "e78a2182-f076-458c-8973-512c29485911@70593",
+        "e78a2182-f076-458c-8973-512c29485911@332cc",
+        "e78a2182-f076-458c-8973-512c29485911@30732",
+        "e78a2182-f076-458c-8973-512c29485911@d56ba",
+        "e78a2182-f076-458c-8973-512c29485911@e5760",
+        "e78a2182-f076-458c-8973-512c29485911@f1394",
+        "e78a2182-f076-458c-8973-512c29485911@57146",
+        "e78a2182-f076-458c-8973-512c29485911@237fb",
+        "e78a2182-f076-458c-8973-512c29485911@ca7e4",
+        "e78a2182-f076-458c-8973-512c29485911@ec6bf",
+        "e78a2182-f076-458c-8973-512c29485911@6c2ab",
+        "e78a2182-f076-458c-8973-512c29485911@5d776",
+        "e78a2182-f076-458c-8973-512c29485911@c2696",
+        "e78a2182-f076-458c-8973-512c29485911@bf369",
+        "e78a2182-f076-458c-8973-512c29485911@5f837",
+        "e78a2182-f076-458c-8973-512c29485911@eed07",
+        "e78a2182-f076-458c-8973-512c29485911@a77fa",
+        "e78a2182-f076-458c-8973-512c29485911@f4113",
+        "e78a2182-f076-458c-8973-512c29485911@5865a",
+        "e78a2182-f076-458c-8973-512c29485911@b9330",
+        "e78a2182-f076-458c-8973-512c29485911@0f418",
+        "e78a2182-f076-458c-8973-512c29485911@9292d",
+        "e78a2182-f076-458c-8973-512c29485911@a911a",
+        "e78a2182-f076-458c-8973-512c29485911@972b5",
+        "e78a2182-f076-458c-8973-512c29485911@17bd3",
+        "e78a2182-f076-458c-8973-512c29485911@f7aea",
+        "e78a2182-f076-458c-8973-512c29485911@57146"
+      ]
+    }
+  }
+}

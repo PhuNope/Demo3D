@@ -1,0 +1,147 @@
+{
+  "uuid": {
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\test.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\materials\\cover.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\materials\\coin.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\materials\\straitFloor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\materials\\door.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\explosion\\fire.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\trace\\trace.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\autumn_floor_mat.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\birch_green_mat.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\birch_red_mat.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\birch_yellow_mat.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\grass_autumn_mat.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\grass_green_SC_mat.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\grass_yellowgreen_mat.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\snow.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  },
+  "path": {
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_mesh.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_01.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_mesh_helmet.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_02.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\road-block\\scene.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\road-block\\scene.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\test\\cocos_anim_jump.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\test\\cocos_anim_jump.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox\\scene.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox\\scene.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox\\scene.gltf@e39f7": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox\\textures\\Material_8_baseColor.png"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_attack.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_attack.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_down.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_down.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_hurt.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_hurt.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_idle.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_idle.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_jump.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_jump.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_shoot.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_shoot.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_walk.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_walk.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf@3effa": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\snow_baseColor.png"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf@221a5": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\snow_metallicRoughness.png"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf@0089c": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\grass_green_SC_mat_baseColor.png"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf@9b633": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_yellow_mat_baseColor.png"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf@9b782": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_yellow_mat_metallicRoughness.png"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf@50743": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_green_mat_baseColor.png"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf@99ea5": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_green_mat_metallicRoughness.png"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf@006bd": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_red_mat_baseColor.png"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf@531b0": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_red_mat_metallicRoughness.png"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf@9c3d2": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\grass_yellowgreen_mat_baseColor.png"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf@f7e17": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\grass_autumn_mat_baseColor.png"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf@a2905": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\autumn_floor_mat_baseColor.png"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_skel.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_skel_ibm.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_die.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_die.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_squat.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_squat.bin"
+    ],
+    "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_run.gltf": [
+      "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_run.bin"
+    ]
+  }
+}

@@ -1,0 +1,1530 @@
+{
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby": {
+    "time": 1673276591881.8838,
+    "uuid": "acc36652-f3ca-4e0c-a9d9-53dc748d12fe",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\resources": {
+    "time": 1673276591895.8474,
+    "uuid": "fc2273c3-8dc4-474c-8a9f-550192e42896",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run": {
+    "time": 1673276592024.489,
+    "uuid": "23d8fe76-cf0e-4d42-b36f-378be1d33cba",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting": {
+    "time": 1673276592153.1882,
+    "uuid": "6f787c6f-b7b5-432c-90f0-69eea11b436e",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\materials": {
+    "time": 1673276591872.908,
+    "uuid": "75fc146d-0945-4c2e-a1e9-0272b38841b9",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\prefabs": {
+    "time": 1673276591874.9026,
+    "uuid": "6bcc6b58-f227-4574-876c-e09d3fe3817f",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\scripts": {
+    "time": 1673276591880.8867,
+    "uuid": "5be9e26e-a6dd-48e1-9d29-ca3fd8e1f465",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\textures": {
+    "time": 1673276591882.8813,
+    "uuid": "a5b5af07-19bf-4a78-a828-04e73d3ee27f",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\animations": {
+    "time": 1673276591905.8198,
+    "uuid": "20543ff2-ac23-4319-86b2-44aa0722b7d2",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\materials": {
+    "time": 1673276591908.812,
+    "uuid": "fccfaf16-c028-4a4c-b849-2eb0383348ba",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models": {
+    "time": 1673276591997.5605,
+    "uuid": "5659f26b-c311-4b02-ba3d-08f77f7e5a93",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\prefabs": {
+    "time": 1673276592007.534,
+    "uuid": "67a97f45-ea86-456f-876d-b9a1d99b3abb",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scenes": {
+    "time": 1673276592011.526,
+    "uuid": "bf8318b7-120a-496c-80b6-f66fa1272066",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scripts": {
+    "time": 1673276592020.4988,
+    "uuid": "92973a06-4008-4a5d-8fee-e2533a9eb214",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\sounds": {
+    "time": 1673276592023.4907,
+    "uuid": "2bcf31b6-2c94-4119-8d92-91c3cfb679fb",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures": {
+    "time": 1673276592043.4924,
+    "uuid": "2f9b2ea9-3c49-488f-b1d0-b2db5e102195",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects": {
+    "time": 1673276592063.5125,
+    "uuid": "d64d1cd0-c26d-42d7-b2ab-949ca23c467b",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\materials": {
+    "time": 1673276592067.5037,
+    "uuid": "ea513a45-492c-4bfe-ad9d-67db610d8bcd",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models": {
+    "time": 1673276592116.2876,
+    "uuid": "8ba0892d-7b55-4a03-9ce7-4b152459ceae",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs": {
+    "time": 1673276592133.242,
+    "uuid": "1de03b92-d5be-4ce9-8cc0-51d8fb41186a",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scenes": {
+    "time": 1673276592140.2236,
+    "uuid": "e20c1d26-ab27-433f-b897-194c1aac8207",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts": {
+    "time": 1673276592153.1882,
+    "uuid": "beff7a6c-241c-45b3-ad5d-5cba09caf2ad",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures": {
+    "time": 1673276592158.175,
+    "uuid": "8d6313bb-d64d-4bf4-a0a7-7fc50d114fc4",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\textures\\ui": {
+    "time": 1673276591886.8706,
+    "uuid": "9ac82eb0-9488-4075-badc-0c17f6ba694f",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos": {
+    "time": 1673276591961.659,
+    "uuid": "0b11a799-b9e7-4174-b045-e636d6c963c8",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\coin": {
+    "time": 1673276591991.577,
+    "uuid": "c54c4d8d-6f84-43d4-b15e-77c84b0b8fb8",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\road-block": {
+    "time": 1673276591996.565,
+    "uuid": "4a6c6436-3c85-4fed-a09a-47a20453cc36",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\test": {
+    "time": 1673276592002.5469,
+    "uuid": "8c735613-6812-46c0-8e87-e71c3c52db85",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq": {
+    "time": 1673276592042.4941,
+    "uuid": "cc3c3af2-7fb7-46be-a576-cd31dbbaa8af",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\ui": {
+    "time": 1673276592047.481,
+    "uuid": "2218c98b-9e53-4481-8044-64a1bfb40f64",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\explosion": {
+    "time": 1673276592062.442,
+    "uuid": "e92700f1-b5b6-4656-8362-125874b90405",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\trace": {
+    "time": 1673276592065.5088,
+    "uuid": "222f29f3-6e17-4b75-9aed-a9e196aecac5",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\alita": {
+    "time": 1673276592078.3916,
+    "uuid": "f268e88d-2ebb-4734-b651-eeefba116e57",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env": {
+    "time": 1673276592090.3564,
+    "uuid": "4dacb206-25f8-4ff5-b86d-1b2c57048f21",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox": {
+    "time": 1673276592119.2798,
+    "uuid": "fe14036d-1dca-4727-83f0-f98316c0ad8b",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Bullet": {
+    "time": 1673276592132.271,
+    "uuid": "de5c980e-f2eb-429d-8065-702cbfded6a0",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Particles": {
+    "time": 1673276592137.2578,
+    "uuid": "ab0f8e1c-701d-4558-8c35-b5502e740086",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui": {
+    "time": 1673276592160.1714,
+    "uuid": "c62fedbe-d01f-40bb-a603-cd340db9b675",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations": {
+    "time": 1673276591988.5845,
+    "uuid": "75b08e51-53d1-4bca-b3de-ad7713d25d2c",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf": {
+    "time": 1673276592098.3618,
+    "uuid": "5a35866c-f715-4bb3-bb63-dad35f743f80",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox\\textures": {
+    "time": 1673276592121.3008,
+    "uuid": "16f1ac92-da92-4bd4-aad8-ccafc5e743eb",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control": {
+    "time": 1673276592168.175,
+    "uuid": "6354b538-a71a-4c4d-8b00-eb9d4d4d1530",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures": {
+    "time": 1673276592115.3164,
+    "uuid": "3a253b20-04d3-4bcb-9cfe-9c0add0d83d7",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\scripts\\LobbyManager.ts": {
+    "time": 1673276567511.8013,
+    "uuid": "f8f659f3-b220-48aa-acd9-ef8318e213f0",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\scripts\\TopBar.ts": {
+    "time": 1673276567512.7983,
+    "uuid": "4e1cef5d-ad78-4b1c-b6a5-da7e994faa52",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scripts\\CameraFollow.ts": {
+    "time": 1673277123041.6995,
+    "uuid": "96d85146-ca46-4ef5-85d2-e65ef09ce9cc",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scripts\\ColliderChecker.ts": {
+    "time": 1673276567593.5837,
+    "uuid": "52f3552c-743c-4d06-9509-a90b45670258",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scripts\\GameDefines.ts": {
+    "time": 1673276567594.5803,
+    "uuid": "1c463122-5ee3-438c-8eda-b4a6bc566767",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scripts\\GameManager.ts": {
+    "time": 1673276567594.5803,
+    "uuid": "800de473-eb49-4015-8845-5661d02db5f4",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scripts\\PlayerController.ts": {
+    "time": 1673276567594.5803,
+    "uuid": "fb97142c-95e0-4729-b372-9c363774ad69",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\AutoDestory.ts": {
+    "time": 1673276567736.2024,
+    "uuid": "30e6a9ec-fb0f-4147-9df5-69924fdd86fa",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\Bullet.ts": {
+    "time": 1673276567736.2024,
+    "uuid": "79e96ee7-82be-4d8f-bbba-1e946934a8bc",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\GameDefines.ts": {
+    "time": 1673276567736.2024,
+    "uuid": "2e8a9f31-e1ae-4825-a828-258283f5c284",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\Grenade.ts": {
+    "time": 1673276567737.2263,
+    "uuid": "82dbeffc-f4e2-4c8b-9da6-eac7dfba3d73",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\InputControl.ts": {
+    "time": 1673276567737.2263,
+    "uuid": "5bf177d0-37d9-4ec0-8d21-983de7ea5f22",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\PhysicsConfig.ts": {
+    "time": 1673276567737.2263,
+    "uuid": "aa3b7899-ed6c-43be-b68c-29d77f9a29fc",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\ShootingGameManager.ts": {
+    "time": 1673276567737.2263,
+    "uuid": "20662192-d10c-475d-8fa7-19d5cf8dc581",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\ShootingPlayerController.ts": {
+    "time": 1673276567738.1975,
+    "uuid": "7f57ee5b-7598-47e1-98f7-7942edc7de57",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\Utils.ts": {
+    "time": 1673276567738.1975,
+    "uuid": "4aba55fe-932d-4a5a-aafa-059750dee0a2",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby.meta": {
+    "time": 1673276651208.746
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\resources.meta": {
+    "time": 1673276651208.746
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run.meta": {
+    "time": 1673276651208.746
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting.meta": {
+    "time": 1673276651208.746
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\materials.meta": {
+    "time": 1673276651209.7434
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\prefabs.meta": {
+    "time": 1673276651209.7434
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\scripts.meta": {
+    "time": 1673276651210.741
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\textures.meta": {
+    "time": 1673276651210.741
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\animations.meta": {
+    "time": 1673276651210.741
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\materials.meta": {
+    "time": 1673276651211.7112
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models.meta": {
+    "time": 1673276651211.7112
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\prefabs.meta": {
+    "time": 1673276651212.7085
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scenes.meta": {
+    "time": 1673276651213.7068
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scripts.meta": {
+    "time": 1673276651213.7068
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\sounds.meta": {
+    "time": 1673276651214.704
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures.meta": {
+    "time": 1673276651214.704
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects.meta": {
+    "time": 1673276651215.7021
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\materials.meta": {
+    "time": 1673276651215.7021
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models.meta": {
+    "time": 1673276651216.6982
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs.meta": {
+    "time": 1673276651216.6982
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scenes.meta": {
+    "time": 1673276651216.6982
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts.meta": {
+    "time": 1673276651217.6948
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures.meta": {
+    "time": 1673276651217.6948
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\textures\\ui.meta": {
+    "time": 1673276651218.6934
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos.meta": {
+    "time": 1673276651219.6892
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\coin.meta": {
+    "time": 1673276651219.6892
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\road-block.meta": {
+    "time": 1673276651219.6892
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\test.meta": {
+    "time": 1673276651220.6865
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq.meta": {
+    "time": 1673276651220.6865
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\ui.meta": {
+    "time": 1673276651220.6865
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\explosion.meta": {
+    "time": 1673276651221.6848
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\trace.meta": {
+    "time": 1673276651221.6848
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\alita.meta": {
+    "time": 1673276651222.6821
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env.meta": {
+    "time": 1673276651222.6821
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox.meta": {
+    "time": 1673276651222.6821
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Bullet.meta": {
+    "time": 1673276651223.679
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Particles.meta": {
+    "time": 1673276651223.679
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui.meta": {
+    "time": 1673276651223.679
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations.meta": {
+    "time": 1673276651224.6765
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf.meta": {
+    "time": 1673276651224.6765
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox\\textures.meta": {
+    "time": 1673276651224.6765
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control.meta": {
+    "time": 1673276651225.6736
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures.meta": {
+    "time": 1673276651225.6736
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\scripts\\LobbyManager.ts.meta": {
+    "time": 1673276651227.6682
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\scripts\\TopBar.ts.meta": {
+    "time": 1673276651228.6653
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scripts\\CameraFollow.ts.meta": {
+    "time": 1673276651228.6653
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scripts\\ColliderChecker.ts.meta": {
+    "time": 1673276651228.6653
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scripts\\GameDefines.ts.meta": {
+    "time": 1673276651229.6636
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scripts\\GameManager.ts.meta": {
+    "time": 1673276651231.6594
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scripts\\PlayerController.ts.meta": {
+    "time": 1673276651231.6594
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\AutoDestory.ts.meta": {
+    "time": 1673276651232.6555
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\Bullet.ts.meta": {
+    "time": 1673276651232.6555
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\GameDefines.ts.meta": {
+    "time": 1673276651233.652
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\Grenade.ts.meta": {
+    "time": 1673276651234.6514
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\InputControl.ts.meta": {
+    "time": 1673276651235.649
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\PhysicsConfig.ts.meta": {
+    "time": 1673276651235.649
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\ShootingGameManager.ts.meta": {
+    "time": 1673276651235.649
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\ShootingPlayerController.ts.meta": {
+    "time": 1673276651235.649
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scripts\\Utils.ts.meta": {
+    "time": 1673276651236.646
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\lobby.scene": {
+    "time": 1673276659754.2532,
+    "uuid": "7f2ad52b-eac2-4af7-8f17-8ed6018d7667",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\resources\\games.json": {
+    "time": 1673276567513.796,
+    "uuid": "a7486448-5907-4f16-b195-16497284aacb",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\resources\\logo.png": {
+    "time": 1673276567519.7795,
+    "uuid": "530a1b29-9ff1-44ee-8fed-5fb90cdec602",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\resources\\run.png": {
+    "time": 1673276567526.7634,
+    "uuid": "a9ed7041-2d4d-4796-adb3-f1559316e19b",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\resources\\shooting.png": {
+    "time": 1673276567534.7405,
+    "uuid": "e3287e64-6f7d-46cb-86b9-e3b59853c2f3",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\test.mtl": {
+    "time": 1673276659641.5542,
+    "uuid": "578264d1-08eb-4790-9d85-b1bbd480ab9b",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\materials\\cover.mtl": {
+    "time": 1673276659752.2603,
+    "uuid": "4d36f650-8233-4b4c-9ff7-e30c001c087f",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\prefabs\\Cover.prefab": {
+    "time": 1673276659770.212,
+    "uuid": "b783b08c-5b65-434f-8bbc-27518fc0b6c5",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\animations\\block_down.anim": {
+    "time": 1673276659783.178,
+    "uuid": "df8229ad-ec16-4b62-b5cd-fc5afc6a9b82",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\animations\\coin_rot.anim": {
+    "time": 1673276659785.173,
+    "uuid": "424389b5-0386-4689-a7ee-874bc71d3673",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\materials\\coin.mtl": {
+    "time": 1673276659770.212,
+    "uuid": "d76f975f-7106-4ee2-ad53-594eb813bc2b",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\materials\\straitFloor.mtl": {
+    "time": 1673276659770.212,
+    "uuid": "8f5b4a04-44da-4b5a-8c23-fec2fe529dd3",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos.zip": {
+    "time": 1673276567550.6975,
+    "uuid": "fa3763b8-4682-4157-a5b7-e9713f1ab1ff",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\prefabs\\Cocos.prefab": {
+    "time": 1673276659805.1194,
+    "uuid": "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\prefabs\\Coin.prefab": {
+    "time": 1673276659806.1145,
+    "uuid": "e2d06bfc-fa71-4450-a4a3-068fab8135aa",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\prefabs\\RoadBlock.prefab": {
+    "time": 1673276659819.0815,
+    "uuid": "039b89e0-21a5-4051-95ee-1dadd9db30e7",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\prefabs\\StraitFloor.prefab": {
+    "time": 1673276659829.0547,
+    "uuid": "e65a51a5-b7b7-42c9-8bd9-2e9e3c8af0bb",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scenes\\Main.scene": {
+    "time": 1673277947037.9062,
+    "uuid": "20ce3694-9f5b-45a0-a0ef-63579c57aa10",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\sounds\\coin02.wav": {
+    "time": 1673276567595.579,
+    "uuid": "ec75b827-136c-4fea-a6e6-94a55026b8e9",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\sounds\\jump02.wav": {
+    "time": 1673276567595.579,
+    "uuid": "d4ee305d-5aca-4dd9-a804-59d95c2bae98",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\City-Road-Textures.jpg": {
+    "time": 1673276567596.5742,
+    "uuid": "e2eb0ece-719e-49a5-98f1-f363175f8e84",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\materials\\door.mtl": {
+    "time": 1673276659845.0107,
+    "uuid": "91395b79-a706-4f6f-9860-a133721edeb7",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Grenade.prefab": {
+    "time": 1673276659868.948,
+    "uuid": "e10de04e-8c8c-485e-8b91-c6ce8a5fa5ef",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\WoodenBox.prefab": {
+    "time": 1673276659869.9453,
+    "uuid": "1657718e-8ae8-4d6e-bd83-6202b30a49b8",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scenes\\Main.scene": {
+    "time": 1673276669686.2488,
+    "uuid": "86558188-59bb-4643-866b-17b6e85eea90",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scenes\\start.scene": {
+    "time": 1673276659871.9382,
+    "uuid": "185eb3ff-5e86-41b0-a7db-c5213bf80f3b",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\HP.png": {
+    "time": 1673276567738.1975,
+    "uuid": "16d999f2-be6a-4dda-ac0b-df9289e26026",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\HPBackGround.png": {
+    "time": 1673276567738.1975,
+    "uuid": "21f01c4e-0ead-483b-a8e1-971d908b81bd",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\target.png": {
+    "time": 1673276567739.2214,
+    "uuid": "239ee41d-f179-491d-a22e-8f418e98a82e",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\textures\\ui\\home.png": {
+    "time": 1673276567512.7983,
+    "uuid": "452c7bba-e591-4311-863b-71e47b8c51bc",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\textures\\ui\\left.png": {
+    "time": 1673276567512.7983,
+    "uuid": "0bc14ec4-2d02-4a01-ab33-ff479408529a",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\textures\\ui\\right.png": {
+    "time": 1673276567513.796,
+    "uuid": "feeb9f47-7afe-45ba-a536-8ceda954aa40",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\body.mtl": {
+    "time": 1673276659988.627,
+    "uuid": "58cf3db3-e6f4-4943-a076-26157912429c",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_01.bin": {
+    "time": 1673276567568.6494,
+    "uuid": "b3df5b21-2fe6-410e-a10d-3df317e61bb5",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_01_baseColor.png": {
+    "time": 1673276567571.6426,
+    "uuid": "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_01_emissive.png": {
+    "time": 1673276567572.639,
+    "uuid": "026c4a15-e07d-4053-86de-9f9fe30188e5",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_01_normal.png": {
+    "time": 1673276567576.6294,
+    "uuid": "3af9be2f-93d2-41a0-b7b7-3cc03054b34a",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png": {
+    "time": 1673276567578.654,
+    "uuid": "64b1edbd-75c7-4159-a65a-f1e6d8c9812a",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_02.bin": {
+    "time": 1673276567579.6492,
+    "uuid": "dcab7d1f-201e-45d8-911c-833cc5427723",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_02_baseColor.png": {
+    "time": 1673276567579.6492,
+    "uuid": "8949c1f1-9b2b-418c-b150-611a94543416",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_02_normal.png": {
+    "time": 1673276567581.6438,
+    "uuid": "19819162-ce3f-4f7c-8889-8b2f35bf274c",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png": {
+    "time": 1673276567581.6438,
+    "uuid": "cd618de5-59fc-4899-ba4f-55195f3e24ce",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_mesh.gltf": {
+    "time": 1673276567565.6572,
+    "uuid": "5bee9f0c-9771-4e73-b0ea-0bbb6da67698",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_mesh_helmet.gltf": {
+    "time": 1673276567565.6572,
+    "uuid": "fb9825a0-fd7f-48c5-b121-9af90f9f2011",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_skel.gltf": {
+    "time": 1673276567565.6572,
+    "uuid": "90f86573-5baf-41e2-97db-8604d1f42b65",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_skel_ibm.bin": {
+    "time": 1673276567565.6572,
+    "uuid": "8d2d3098-6841-41fc-af7f-4bac9e32b080",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_squat_anim.bin": {
+    "time": 1673276567566.6543,
+    "uuid": "b9ab6374-4e67-4db2-bb75-0256c62f6c7b",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\helmet.mtl": {
+    "time": 1673276660337.772,
+    "uuid": "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\coin\\coin.glb": {
+    "time": 1673276567582.613,
+    "uuid": "83d8802b-bb47-4dad-afb5-8f1e6640f5c2",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\coin\\coni_paint.png": {
+    "time": 1673276567583.6104,
+    "uuid": "d71b4b9a-2e74-4095-a9ba-0c99072e03b9",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\road-block\\scene.bin": {
+    "time": 1673276567586.6013,
+    "uuid": "8d3e19f4-5ff8-46d0-8026-5da0acc5695d",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\road-block\\scene.gltf": {
+    "time": 1673276567587.6282,
+    "uuid": "18e346ad-f198-4ef1-90c6-8be6a285f834",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\test\\cocos_anim_jump.bin": {
+    "time": 1673276567588.6245,
+    "uuid": "ad12009e-a76e-431a-a454-5e4e2e8fc810",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\test\\cocos_anim_jump.gltf": {
+    "time": 1673276567589.621,
+    "uuid": "f4d979c8-e820-4f9d-a413-979883c7eac5",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_back.tga": {
+    "time": 1673276567601.589,
+    "uuid": "dd318b4e-9c3e-4325-b17c-3bfa34773f51",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_bottom.tga": {
+    "time": 1673276567606.577,
+    "uuid": "cb0610d6-8290-44a7-bd28-151e6b7c4328",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_front.tga": {
+    "time": 1673276567611.5637,
+    "uuid": "efb1c820-c1f6-4f1f-a423-33421432b0b6",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_left.tga": {
+    "time": 1673276567616.5518,
+    "uuid": "a0c3dd29-62d9-48d2-b23e-46daa031d03c",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_right.tga": {
+    "time": 1673276567620.5105,
+    "uuid": "5b34dc2e-7c1f-4d4e-8447-b95e94cc5372",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_top.tga": {
+    "time": 1673276567627.4946,
+    "uuid": "85b93441-fc5d-40ff-b4da-8c6256d41bab",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\license.txt": {
+    "time": 1673276567627.4946,
+    "uuid": "f4b8077c-cd26-4d33-ae3a-fede4bd4b45b",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\mp_drakeq.shader": {
+    "time": 1673276567627.4946,
+    "uuid": "7ccb36ec-11d0-4665-bebf-cc3931a715b4",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\readme.txt": {
+    "time": 1673276567628.4893,
+    "uuid": "0fb51c44-0d9b-49b8-87a6-998805a5a12e",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\star.cubemap": {
+    "time": 1673276567628.4893,
+    "uuid": "fd9847b6-400d-432c-82a6-043f99d49b60",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\ui\\metalPanel_green.png": {
+    "time": 1673276567629.491,
+    "uuid": "29eb6af8-1b0e-4781-b328-39c7bf8570c7",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\ui\\squareGreen.png": {
+    "time": 1673276567629.491,
+    "uuid": "d571063e-7353-4fe7-8c26-ebde7cbe3d39",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\explosion\\Explosion.prefab": {
+    "time": 1673276661172.2798,
+    "uuid": "2d696bdc-861a-4065-b8f2-cf6a916a38e2",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\explosion\\fire.mtl": {
+    "time": 1673276661159.3164,
+    "uuid": "c01b9002-276f-41aa-ae5e-c23fbdf60226",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\explosion\\smoke_07.png": {
+    "time": 1673276567631.484,
+    "uuid": "2b4954f0-c4c3-4d5a-a9c6-5587e06b0517",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\trace\\trace.mtl": {
+    "time": 1673276661183.2527,
+    "uuid": "75e68a12-d76b-45c7-a271-46f7e4331428",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\trace\\trace_02_rotated.png": {
+    "time": 1673276567632.5083,
+    "uuid": "25b5691e-e9d7-440c-819f-507bb5b64a86",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\alita\\SpaceSoldier_Male_01.fbx": {
+    "time": 1673276567659.4065,
+    "uuid": "e78a2182-f076-458c-8973-512c29485911",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\alita\\TexLaserRifle.png": {
+    "time": 1673276567666.4187,
+    "uuid": "2664b761-dda0-4702-8559-85638f6ba6fc",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\alita\\TexSpaceSoldierM01.png": {
+    "time": 1673276567668.412,
+    "uuid": "3b9dc9ae-ac8e-4b1e-94ba-a46ef3b99e30",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\autumn_floor_mat.mtl": {
+    "time": 1673276661222.6653,
+    "uuid": "4c1143fd-f6c2-4f11-98b3-5fdc15b0d78c",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\birch_green_mat.mtl": {
+    "time": 1673276661225.659,
+    "uuid": "6fb4bd3a-bb86-49e0-ab28-911da1a4b279",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\birch_red_mat.mtl": {
+    "time": 1673276661228.6494,
+    "uuid": "3e8d0e8c-381f-4ab5-bbc8-9d123b4d7fbb",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\birch_yellow_mat.mtl": {
+    "time": 1673276661234.6348,
+    "uuid": "62c71b38-3d8f-4e2d-894a-ca4486cedf1d",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\grass_autumn_mat.mtl": {
+    "time": 1673276661237.6262,
+    "uuid": "51c915c7-2ec9-44fc-b906-99cdeb9b4ea5",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\grass_green_SC_mat.mtl": {
+    "time": 1673276661238.6238,
+    "uuid": "5133dc3e-85c6-464c-953b-53b404fe836a",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\grass_yellowgreen_mat.mtl": {
+    "time": 1673276661241.6162,
+    "uuid": "5905d7e9-dd51-4ea4-923e-cf7f1e4c72e3",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\snow.mtl": {
+    "time": 1673276661244.6077,
+    "uuid": "ccaad37d-10c9-4d3e-807d-532c72e655ef",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox\\scene.bin": {
+    "time": 1673276567719.2488,
+    "uuid": "cb352de5-e8af-40ea-81bf-b241d3f11d70",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox\\scene.gltf": {
+    "time": 1673276567719.2488,
+    "uuid": "71a81f5e-78e3-4167-9297-7db43dac5033",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Bullet\\BossBullet.prefab": {
+    "time": 1673276661261.5613,
+    "uuid": "3526ef8c-f844-44d3-8e52-0f94bfcebc75",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Bullet\\Bullet.prefab": {
+    "time": 1673276661264.5544,
+    "uuid": "9e6ba493-fcf6-4368-984e-1d9ee80721e1",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Bullet\\MonsterBullet.prefab": {
+    "time": 1673276661263.5571,
+    "uuid": "00a4861c-040c-4a2d-99dc-f6a76d5fceba",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Particles\\AppearPar.prefab": {
+    "time": 1673276661322.714,
+    "uuid": "0cba405e-6e2a-4545-a561-a4a93e0286cd",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Particles\\Boom.prefab": {
+    "time": 1673276661325.7063,
+    "uuid": "51ced159-15d3-47c9-ba1a-4ea964c29af3",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Particles\\New Particle.prefab": {
+    "time": 1673276661325.7063,
+    "uuid": "5c2242fb-e18c-4db8-be5a-ca5ef222fd99",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_attack.bin": {
+    "time": 1673276567551.7275,
+    "uuid": "73443895-6d8f-41b5-8e3f-4110d0f4dc31",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_attack.gltf": {
+    "time": 1673276567552.6936,
+    "uuid": "a873a742-b503-4a96-8570-6fe542697035",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_die.bin": {
+    "time": 1673276567552.6936,
+    "uuid": "d1a7cd09-b5d9-422f-a4f3-112d85f1059c",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_die.gltf": {
+    "time": 1673276567553.7188,
+    "uuid": "caf172df-03b7-4c5a-8a53-93f3e4be5146",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_down.bin": {
+    "time": 1673276567555.7126,
+    "uuid": "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_down.gltf": {
+    "time": 1673276567555.7126,
+    "uuid": "27ac412c-9efa-4ead-8e2c-fe6533c7878f",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_hurt.bin": {
+    "time": 1673276567556.6816,
+    "uuid": "a1efb6ff-ef74-4037-8801-d310eca22fd5",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_hurt.gltf": {
+    "time": 1673276567556.6816,
+    "uuid": "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_idle.bin": {
+    "time": 1673276567557.679,
+    "uuid": "e9d41da7-da95-4119-8a6c-0937de2adb57",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_idle.gltf": {
+    "time": 1673276567558.6763,
+    "uuid": "445d5d9d-c56b-4528-bc90-c847357e5d94",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_jump.bin": {
+    "time": 1673276567559.6743,
+    "uuid": "33a7dcc9-4eed-4d49-baac-d190c3d2a157",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_jump.gltf": {
+    "time": 1673276567559.6743,
+    "uuid": "501da3c5-f2d8-45f7-bc04-5130d58811ff",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_run.bin": {
+    "time": 1673276567560.6716,
+    "uuid": "f1d8a0c8-d2d8-473f-a769-803842978f68",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_run.gltf": {
+    "time": 1673276567560.6716,
+    "uuid": "50735e20-7211-4e9c-b676-4d648cdc0cbb",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_shoot.bin": {
+    "time": 1673276567561.6677,
+    "uuid": "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_shoot.gltf": {
+    "time": 1673276567561.6677,
+    "uuid": "1cf73293-3e10-49c1-bfa1-59daaadbd18b",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_squat.bin": {
+    "time": 1673276567562.6665,
+    "uuid": "7290f264-a898-4355-8041-8514dbd0051f",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_squat.gltf": {
+    "time": 1673276567563.663,
+    "uuid": "58c9fdbf-de49-4141-83fa-9ad83f78591c",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_walk.bin": {
+    "time": 1673276567563.663,
+    "uuid": "e08b2140-55f5-4d1f-af55-565183504a80",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_walk.gltf": {
+    "time": 1673276567564.6604,
+    "uuid": "b1cb32e6-c8c9-40c9-9d52-119dae416b32",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.bin": {
+    "time": 1673276567703.2888,
+    "uuid": "7fdc624f-06b5-4650-bcbc-70393435fdee",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf": {
+    "time": 1673276567704.2864,
+    "uuid": "ad30e782-f9b8-40d5-8ccf-23e1730268dd",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox\\textures\\Material_8_baseColor.png": {
+    "time": 1673276567728.2236,
+    "uuid": "d961c71e-b87d-485d-80ea-2859d08b4e7e",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control\\grenade.png": {
+    "time": 1673276567739.2214,
+    "uuid": "e1c5f6c3-b0d3-47a5-b4b3-eb2b4a3bf883",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control\\shadedLight03.png": {
+    "time": 1673276567740.192,
+    "uuid": "46759fc1-61c8-4e05-8130-f41b325c2068",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control\\shadedLight05.png": {
+    "time": 1673276567740.192,
+    "uuid": "cd4436d6-0c20-480e-be2a-8a44a4c75987",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control\\shadedLight06.png": {
+    "time": 1673276567740.192,
+    "uuid": "5e65819f-01cf-44ab-86b5-a5b4c38dbaa9",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control\\shadedLight10.png": {
+    "time": 1673276567741.1892,
+    "uuid": "fe341545-4e18-4b7e-883b-2f8f7fe8d558",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control\\shadedLight49.png": {
+    "time": 1673276567741.1892,
+    "uuid": "1144d8dc-97a5-405a-b52b-bef97b11a0cb",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\autumn_floor_mat_baseColor.png": {
+    "time": 1673276567706.2832,
+    "uuid": "a9073624-3d94-4b43-af80-d17d25cf0d2a",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_green_mat_baseColor.png": {
+    "time": 1673276567708.2766,
+    "uuid": "cf810e70-e20f-447c-833d-54642824f380",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_green_mat_metallicRoughness.png": {
+    "time": 1673276567709.2732,
+    "uuid": "f5c7be0b-135e-4387-adc8-396e45c32048",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_red_mat_baseColor.png": {
+    "time": 1673276567711.2676,
+    "uuid": "44bb06a7-02b6-4f0d-8c14-85e4759b80ae",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_red_mat_metallicRoughness.png": {
+    "time": 1673276567711.2676,
+    "uuid": "35311ee0-a191-4aa4-9ff8-6f69cc944001",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_yellow_mat_baseColor.png": {
+    "time": 1673276567714.2598,
+    "uuid": "d680adae-e592-495f-b104-c66a2bd28faa",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_yellow_mat_metallicRoughness.png": {
+    "time": 1673276567714.2598,
+    "uuid": "9da81524-d729-4b03-a031-567e55e4ed33",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\grass_autumn_mat_baseColor.png": {
+    "time": 1673276567715.257,
+    "uuid": "30fd3513-8345-402f-aa9d-46b06ec0f8d7",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\grass_green_SC_mat_baseColor.png": {
+    "time": 1673276567716.2827,
+    "uuid": "eac513a7-ca49-4384-8c89-5b097b0dde92",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\grass_yellowgreen_mat_baseColor.png": {
+    "time": 1673276567716.2827,
+    "uuid": "dd90b230-7f76-4c76-851e-51df4b864786",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\snow_baseColor.png": {
+    "time": 1673276567716.2827,
+    "uuid": "bd3cebef-5824-4595-ae50-8ecab55de9bd",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\snow_metallicRoughness.png": {
+    "time": 1673276567717.2527,
+    "uuid": "dae6e63b-8be0-462a-90a7-ed3ba08d113e",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\migrate-canvas.ts": {
+    "time": 1673276659630.5847,
+    "uuid": "efd61d43-0233-4be8-959e-b6500878a8a8",
+    "missing": false
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\resources\\games.json.meta": {
+    "time": 1673276567514.7935
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\test.mtl.meta": {
+    "time": 1673276659752.2603
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\materials\\cover.mtl.meta": {
+    "time": 1673276659758.2427
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\lobby.scene.meta": {
+    "time": 1673276659761.2373
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\resources\\run.png.meta": {
+    "time": 1673276659764.228
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\resources\\shooting.png.meta": {
+    "time": 1673276659766.2234
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\resources\\logo.png.meta": {
+    "time": 1673276659768.2173
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\prefabs\\Cover.prefab.meta": {
+    "time": 1673276659775.1987
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\materials\\coin.mtl.meta": {
+    "time": 1673276659775.1987
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\materials\\straitFloor.mtl.meta": {
+    "time": 1673276659781.1826
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\animations\\block_down.anim.meta": {
+    "time": 1673276659801.1292
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\animations\\coin_rot.anim.meta": {
+    "time": 1673276659804.1206
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos.zip.meta": {
+    "time": 1673276659811.103
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\prefabs\\Cocos.prefab.meta": {
+    "time": 1673276659815.0928
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\prefabs\\Coin.prefab.meta": {
+    "time": 1673276659816.0886
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\prefabs\\RoadBlock.prefab.meta": {
+    "time": 1673276659836.0356
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\prefabs\\StraitFloor.prefab.meta": {
+    "time": 1673276659841.022
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\sounds\\jump02.wav.meta": {
+    "time": 1673276659843.016
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\sounds\\coin02.wav.meta": {
+    "time": 1673276659844.0134
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scenes\\Main.scene.meta": {
+    "time": 1673276659846.0093
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\materials\\door.mtl.meta": {
+    "time": 1673276659858.9736
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\City-Road-Textures.jpg.meta": {
+    "time": 1673276659869.9453
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\WoodenBox.prefab.meta": {
+    "time": 1673276659872.9355
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Grenade.prefab.meta": {
+    "time": 1673276659873.934
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scenes\\start.scene.meta": {
+    "time": 1673276659877.9224
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\textures\\ui\\home.png.meta": {
+    "time": 1673276659905.849
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\target.png.meta": {
+    "time": 1673276659925.7954
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\HPBackGround.png.meta": {
+    "time": 1673276659986.6328
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\textures\\ui\\left.png.meta": {
+    "time": 1673276659988.627
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\HP.png.meta": {
+    "time": 1673276659989.6245
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\body.mtl.meta": {
+    "time": 1673276660005.5833
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_01.bin.meta": {
+    "time": 1673276660023.5342
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_01_emissive.png.meta": {
+    "time": 1673276660041.4863
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_01_baseColor.png.meta": {
+    "time": 1673276660049.4658
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_01_normal.png.meta": {
+    "time": 1673276660056.4458
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\lobby\\textures\\ui\\right.png.meta": {
+    "time": 1673276660068.4148
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_02.bin.meta": {
+    "time": 1673276660073.4006
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_01_occlusionRoughnessMetallic.png.meta": {
+    "time": 1673276660076.3936
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_02_baseColor.png.meta": {
+    "time": 1673276660310.8435
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_02_normal.png.meta": {
+    "time": 1673276660311.8416
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocosfinish_02_occlusionRoughnessMetallic.png.meta": {
+    "time": 1673276660319.8208
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_mesh.gltf.meta": {
+    "time": 1673276660323.8098
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_skel_ibm.bin.meta": {
+    "time": 1673276660324.8066
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_mesh_helmet.gltf.meta": {
+    "time": 1673276660338.77
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_skel.gltf.meta": {
+    "time": 1673276660341.761
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\cocos_squat_anim.bin.meta": {
+    "time": 1673276660342.7585
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\helmet.mtl.meta": {
+    "time": 1673276660343.7566
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\road-block\\scene.bin.meta": {
+    "time": 1673276660353.7305
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\test\\cocos_anim_jump.bin.meta": {
+    "time": 1673276660448.9944
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\coin\\coin.glb.meta": {
+    "time": 1673276660467.941
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\coin\\coni_paint.png.meta": {
+    "time": 1673276660468.9395
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\test\\cocos_anim_jump.gltf.meta": {
+    "time": 1673276660981.5957
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_back.tga.meta": {
+    "time": 1673276661035.135
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_front.tga.meta": {
+    "time": 1673276661039.1248
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_bottom.tga.meta": {
+    "time": 1673276661040.123
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\license.txt.meta": {
+    "time": 1673276567627.4946
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\mp_drakeq.shader.meta": {
+    "time": 1673276661147.348
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_left.tga.meta": {
+    "time": 1673276661151.3362
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\readme.txt.meta": {
+    "time": 1673276567628.4893
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\star.cubemap.meta": {
+    "time": 1673276661154.3276
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_right.tga.meta": {
+    "time": 1673276661156.3235
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\mp_drakeq\\drakeq_top.tga.meta": {
+    "time": 1673276661156.3235
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\explosion\\fire.mtl.meta": {
+    "time": 1673276661169.2886
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\explosion\\Explosion.prefab.meta": {
+    "time": 1673276661175.2722
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\explosion\\smoke_07.png.meta": {
+    "time": 1673276661176.2688
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\ui\\metalPanel_green.png.meta": {
+    "time": 1673276661178.2642
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\textures\\ui\\squareGreen.png.meta": {
+    "time": 1673276661184.7842
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\trace\\trace.mtl.meta": {
+    "time": 1673276661204.715
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\effects\\trace\\trace_02_rotated.png.meta": {
+    "time": 1673276661219.6755
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\road-block\\scene.gltf.meta": {
+    "time": 1673276661221.6687
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\alita\\TexLaserRifle.png.meta": {
+    "time": 1673276661226.6558
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\alita\\TexSpaceSoldierM01.png.meta": {
+    "time": 1673276661226.6558
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\autumn_floor_mat.mtl.meta": {
+    "time": 1673276661234.6348
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\birch_green_mat.mtl.meta": {
+    "time": 1673276661234.6348
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\birch_red_mat.mtl.meta": {
+    "time": 1673276661237.6262
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\birch_yellow_mat.mtl.meta": {
+    "time": 1673276661240.6184
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\grass_autumn_mat.mtl.meta": {
+    "time": 1673276661244.6077
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\grass_green_SC_mat.mtl.meta": {
+    "time": 1673276661245.6045
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\grass_yellowgreen_mat.mtl.meta": {
+    "time": 1673276661250.5923
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox\\scene.bin.meta": {
+    "time": 1673276661251.589
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\snow.mtl.meta": {
+    "time": 1673276661252.5854
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Bullet\\BossBullet.prefab.meta": {
+    "time": 1673276661266.549
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Bullet\\Bullet.prefab.meta": {
+    "time": 1673276661285.8127
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Bullet\\MonsterBullet.prefab.meta": {
+    "time": 1673276661285.8127
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox\\scene.gltf.meta": {
+    "time": 1673276661293.794
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Particles\\AppearPar.prefab.meta": {
+    "time": 1673276661326.7034
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Particles\\Boom.prefab.meta": {
+    "time": 1673276661330.6958
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\prefabs\\Particles\\New Particle.prefab.meta": {
+    "time": 1673276661333.6855
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_attack.bin.meta": {
+    "time": 1673276661334.6833
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_down.bin.meta": {
+    "time": 1673276661365.6008
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_die.bin.meta": {
+    "time": 1673276661366.599
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_hurt.bin.meta": {
+    "time": 1673276662561.402
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_attack.gltf.meta": {
+    "time": 1673276662805.748
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_die.gltf.meta": {
+    "time": 1673276662808.7385
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_idle.bin.meta": {
+    "time": 1673276663268.7131
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_down.gltf.meta": {
+    "time": 1673276663284.6729
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_hurt.gltf.meta": {
+    "time": 1673276663703.375
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_jump.bin.meta": {
+    "time": 1673276663704.3723
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_run.bin.meta": {
+    "time": 1673276664638.4663
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_idle.gltf.meta": {
+    "time": 1673276664679.44
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_shoot.bin.meta": {
+    "time": 1673276665071.3071
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_jump.gltf.meta": {
+    "time": 1673276665072.304
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_run.gltf.meta": {
+    "time": 1673276665671.7224
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_squat.bin.meta": {
+    "time": 1673276667004.6926
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_walk.bin.meta": {
+    "time": 1673276667176.7966
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_shoot.gltf.meta": {
+    "time": 1673276667322.913
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.bin.meta": {
+    "time": 1673276667688.1587
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_squat.gltf.meta": {
+    "time": 1673276667689.1294
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\models\\cocos\\animations\\cocos_anim_walk.gltf.meta": {
+    "time": 1673276667843.24
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control\\grenade.png.meta": {
+    "time": 1673276668118.9646
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\woodenBox\\textures\\Material_8_baseColor.png.meta": {
+    "time": 1673276668120.9602
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control\\shadedLight03.png.meta": {
+    "time": 1673276668292.0076
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control\\shadedLight06.png.meta": {
+    "time": 1673276668388.7505
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control\\shadedLight05.png.meta": {
+    "time": 1673276668389.7478
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control\\shadedLight10.png.meta": {
+    "time": 1673276668470.5298
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\autumn_floor_mat_baseColor.png.meta": {
+    "time": 1673276668473.5264
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\textures\\ui\\control\\shadedLight49.png.meta": {
+    "time": 1673276668569.2664
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_green_mat_baseColor.png.meta": {
+    "time": 1673276668654.0408
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_green_mat_metallicRoughness.png.meta": {
+    "time": 1673276668736.8208
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_red_mat_baseColor.png.meta": {
+    "time": 1673276668763.747
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_red_mat_metallicRoughness.png.meta": {
+    "time": 1673276668853.5066
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_yellow_mat_baseColor.png.meta": {
+    "time": 1673276668931.2983
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\birch_yellow_mat_metallicRoughness.png.meta": {
+    "time": 1673276668934.2915
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\grass_autumn_mat_baseColor.png.meta": {
+    "time": 1673276669020.0898
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\grass_green_SC_mat_baseColor.png.meta": {
+    "time": 1673276669083.8916
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\grass_yellowgreen_mat_baseColor.png.meta": {
+    "time": 1673276669088.8762
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\migrate-canvas.ts.meta": {
+    "time": 1673276669144.7559
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\snow_baseColor.png.meta": {
+    "time": 1673276669150.7114
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\textures\\snow_metallicRoughness.png.meta": {
+    "time": 1673276669213.2498
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\env\\gltf\\scene.gltf.meta": {
+    "time": 1673276669507.4695
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\models\\alita\\SpaceSoldier_Male_01.fbx.meta": {
+    "time": 1673276669672.257
+  },
+  "F:\\Lap Trinh Game\\simple-games\\assets\\simple-shooting\\scenes\\Main.scene.meta": {
+    "time": 1673276669690.209
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i3-10105F CPU @ 3.70GHz",
+        "version": "Windows 10 Pro"
+    },
+    "sceneListMap": {
+        "20ce3694-9f5b-45a0-a0ef-63579c57aa10": "F:\\Lap Trinh Game\\simple-games\\assets\\simple-run\\scenes\\Main.scene"
+    },
+    "deviceMd5": "dd595fea80b806cd0a0edebf051e9ed9"
+}

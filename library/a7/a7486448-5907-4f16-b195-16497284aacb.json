@@ -1,0 +1,18 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "games",
+  "_objFlags": 0,
+  "_native": "",
+  "json": [
+    {
+      "name": "simple-shoot",
+      "coverImgUrl": "shooting/texture",
+      "sceneUrl": "/simple-shooting/scenes/start.scene"
+    },
+    {
+      "name": "simple-run",
+      "coverImgUrl": "run/texture",
+      "sceneUrl": "/simple-run/scenes/Main.scene"
+    }
+  ]
+}
